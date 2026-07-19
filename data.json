@@ -1,0 +1,4246 @@
+{
+  "settings": {
+    "peopleFolder": "98.Knowledge/People",
+    "personTemplatePath": "99.System/Templates/Template, Person.md",
+    "executiveFolder": "12. 🎯 Executive",
+    "decisionsFolder": "16. ⚖️ Decisions",
+    "risksFolder": "17. ⚠️ Risks",
+    "issuesFolder": "18. 🚧 Issues",
+    "dashboardFolder": "01.Home/Dashboards",
+    "dashboardBaseName": "00.🎛️ Master",
+    "autoSync": false,
+    "autoCreatePeople": true,
+    "debounceMs": 1800,
+    "excludedFolders": [
+      "99.System/Templates"
+    ],
+    "excludedHeadings": [
+      "links",
+      "backlinks",
+      "references",
+      "related",
+      "carry forward",
+      "same day"
+    ]
+  },
+  "index": {
+    "10.Meetings/2026/07-16-26 Thursday.md": {
+      "signature": "{\"tags\":[\"Budget\",\"DomainStrategy\",\"HRBP\",\"IAM\",\"Salesforce\",\"architecture\"],\"people\":[\"98.Knowledge/People/Bob Smith.md\",\"98.Knowledge/People/Brian Hoa.md\",\"98.Knowledge/People/James Bowes.md\",\"98.Knowledge/People/Jonathan Landon.md\",\"98.Knowledge/People/Rob Pincente.md\"],\"records\":[{\"id\":\"akos-1quzm2y\",\"type\":\"e\",\"text\":\"[[James Bowes|James]] needs more $ for #Salesforce #Budget\",\"people\":[\"98.Knowledge/People/James Bowes.md\"],\"unresolved\":[]},{\"id\":\"akos-5jaoxp\",\"type\":\"r\",\"text\":\"IAM/CIAM Staff that are also volunteers >> Name within a name > Find resource. #architecture #IAM [[Jonathan Landon|Jonathan]]\",\"people\":[\"98.Knowledge/People/Jonathan Landon.md\"],\"unresolved\":[]},{\"id\":\"akos-159fbsd\",\"type\":\"d\",\"text\":\"[[Bob Smith]] no-go for that project.\",\"people\":[\"98.Knowledge/People/Bob Smith.md\"],\"unresolved\":[]},{\"id\":\"akos-ccmntk\",\"type\":\"r\",\"text\":\"[[Rob Pincente|Rob]] says it wont work #DomainStrategy\",\"people\":[\"98.Knowledge/People/Rob Pincente.md\"],\"unresolved\":[]},{\"id\":\"akos-1irluzm\",\"type\":\"r\",\"text\":\"[[Brian Hoa|Brian]] said something to proceed with #HRBP\",\"people\":[\"98.Knowledge/People/Brian Hoa.md\"],\"unresolved\":[]}]}",
+      "syncedAt": "2026-07-18T21:59:38.796Z",
+      "tags": [
+        "Budget",
+        "DomainStrategy",
+        "HRBP",
+        "IAM",
+        "Salesforce",
+        "architecture"
+      ],
+      "people": [
+        "98.Knowledge/People/Bob Smith.md",
+        "98.Knowledge/People/Brian Hoa.md",
+        "98.Knowledge/People/James Bowes.md",
+        "98.Knowledge/People/Jonathan Landon.md",
+        "98.Knowledge/People/Rob Pincente.md"
+      ],
+      "records": [
+        {
+          "id": "akos-1quzm2y",
+          "type": "e",
+          "text": "[[James Bowes|James]] needs more $ for #Salesforce #Budget",
+          "displayText": "James needs more $ for Salesforce Budget",
+          "people": [
+            "98.Knowledge/People/James Bowes.md"
+          ]
+        },
+        {
+          "id": "akos-5jaoxp",
+          "type": "r",
+          "text": "IAM/CIAM Staff that are also volunteers >> Name within a name > Find resource. #architecture #IAM [[Jonathan Landon|Jonathan]]",
+          "displayText": "IAM/CIAM Staff that are also volunteers >> Name within a name > Find resource. architecture IAM Jonathan",
+          "people": [
+            "98.Knowledge/People/Jonathan Landon.md"
+          ]
+        },
+        {
+          "id": "akos-159fbsd",
+          "type": "d",
+          "text": "[[Bob Smith]] no-go for that project.",
+          "displayText": "Bob Smith no-go for that project.",
+          "people": [
+            "98.Knowledge/People/Bob Smith.md"
+          ]
+        },
+        {
+          "id": "akos-ccmntk",
+          "type": "r",
+          "text": "[[Rob Pincente|Rob]] says it wont work #DomainStrategy",
+          "displayText": "Rob says it wont work DomainStrategy",
+          "people": [
+            "98.Knowledge/People/Rob Pincente.md"
+          ]
+        },
+        {
+          "id": "akos-1irluzm",
+          "type": "r",
+          "text": "[[Brian Hoa|Brian]] said something to proceed with #HRBP",
+          "displayText": "Brian said something to proceed with HRBP",
+          "people": [
+            "98.Knowledge/People/Brian Hoa.md"
+          ]
+        }
+      ]
+    },
+    "Excalidraw/Drawing 2026-07-17 11.55.44.excalidraw.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:37.985Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-15-07-15-tutorial-simple-cake-recipe-and-viewer-engagement.md": {
+      "signature": "{\"tags\":[\"ContentProduction\",\"YouTube\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:37.992Z",
+      "tags": [
+        "ContentProduction",
+        "YouTube"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-15-07-15-meeting-salvation-army-shopify-integration-and-oneidentity-training.md": {
+      "signature": "{\"tags\":[\"AccountLifecycle\",\"Alberta\",\"BC\",\"CSM\",\"ChatGPT\",\"IdentityManagement\",\"Infrastructure\",\"MoversAndJoiners\",\"MuleSoft\",\"Okta\",\"OneIdentity\",\"ProfessionalServices\",\"SCIM\",\"SSO\",\"SalvationArmy\",\"Security\",\"Shopify\",\"UCI\",\"Wildfire\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:37.997Z",
+      "tags": [
+        "AccountLifecycle",
+        "Alberta",
+        "BC",
+        "CSM",
+        "ChatGPT",
+        "IdentityManagement",
+        "Infrastructure",
+        "MoversAndJoiners",
+        "MuleSoft",
+        "Okta",
+        "OneIdentity",
+        "ProfessionalServices",
+        "SCIM",
+        "SSO",
+        "SalvationArmy",
+        "Security",
+        "Shopify",
+        "UCI",
+        "Wildfire"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-15-07-15-meeting-rogers-smb-to-enterprise-migration-and-billing-consolidation.md": {
+      "signature": "{\"tags\":[\"CTO\",\"Enterprise\",\"HeadOffice\",\"MUs\",\"Rogers\",\"SMB\",\"SMB-to-\",\"SalvationArmy\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.003Z",
+      "tags": [
+        "CTO",
+        "Enterprise",
+        "HeadOffice",
+        "MUs",
+        "Rogers",
+        "SMB",
+        "SMB-to-",
+        "SalvationArmy"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-15-07-15-meeting-minutes-agc-process-documentation-and-phone-issue-follow-up.md": {
+      "signature": "{\"tags\":[\"AGC\",\"Apex\",\"BPE\",\"FaceTime\",\"Hypercare\",\"MDM\",\"SharePoint\",\"Telus\",\"iCloud\",\"iMessage/\"],\"people\":[\"98.Knowledge/People/Chris A (Me).md\",\"98.Knowledge/People/Jasvir.md\",\"98.Knowledge/People/Joanne Harry.md\"],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.007Z",
+      "tags": [
+        "AGC",
+        "Apex",
+        "BPE",
+        "FaceTime",
+        "Hypercare",
+        "MDM",
+        "SharePoint",
+        "Telus",
+        "iCloud",
+        "iMessage/"
+      ],
+      "people": [
+        "98.Knowledge/People/Chris A (Me).md",
+        "98.Knowledge/People/Jasvir.md",
+        "98.Knowledge/People/Joanne Harry.md"
+      ],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-15-07-15-meeting-internal-moves-and-compensation-guidelines.md": {
+      "signature": "{\"tags\":[\"DigitalWorkplaceTechnologies\",\"ServiceDesk\"],\"people\":[\"98.Knowledge/People/Barry Hart.md\",\"98.Knowledge/People/Chris A (Me).md\",\"98.Knowledge/People/Derek R.md\",\"98.Knowledge/People/Jamie Megill.md\"],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.010Z",
+      "tags": [
+        "DigitalWorkplaceTechnologies",
+        "ServiceDesk"
+      ],
+      "people": [
+        "98.Knowledge/People/Barry Hart.md",
+        "98.Knowledge/People/Chris A (Me).md",
+        "98.Knowledge/People/Derek R.md",
+        "98.Knowledge/People/Jamie Megill.md"
+      ],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-15-07-15-meeting-golden-image-and-atera-domain-join-onboarding.md": {
+      "signature": "{\"tags\":[\"Atera\",\"Edmonton\",\"Insight\",\"Montreal\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.013Z",
+      "tags": [
+        "Atera",
+        "Edmonton",
+        "Insight",
+        "Montreal"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-15-07-15-meeting-endpoint-security-device-onboarding-hybrid-entra-join-and-staffing-moves.md": {
+      "signature": "{\"tags\":[\"ActiveDirectory\",\"AssetManagement\",\"Atera\",\"Autopilot\",\"CrowdStrike\",\"DWT\",\"DigitalWorkplaceTechnologies\",\"Dina\",\"EntraID\",\"GoldenImage\",\"Graham\",\"HybridJoin\",\"ITAM\",\"Insight\",\"Intune\",\"MDM\",\"Montreal\",\"Saul\",\"ServiceDesk\",\"ServiceNow\",\"TSACB\",\"VPN\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.017Z",
+      "tags": [
+        "ActiveDirectory",
+        "AssetManagement",
+        "Atera",
+        "Autopilot",
+        "CrowdStrike",
+        "DWT",
+        "DigitalWorkplaceTechnologies",
+        "Dina",
+        "EntraID",
+        "GoldenImage",
+        "Graham",
+        "HybridJoin",
+        "ITAM",
+        "Insight",
+        "Intune",
+        "MDM",
+        "Montreal",
+        "Saul",
+        "ServiceDesk",
+        "ServiceNow",
+        "TSACB",
+        "VPN"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-15-07-15-meeting-crowdstrike-access-reporting-and-asset-tagging-alignment.md": {
+      "signature": "{\"tags\":[\"Armorcon\",\"CrowdStrike\",\"EUC\",\"MU\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.020Z",
+      "tags": [
+        "Armorcon",
+        "CrowdStrike",
+        "EUC",
+        "MU"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-15-07-15-board-meeting-cspa-sponsorship-affiliate-engagement-kpis-and-website-risk.md": {
+      "signature": "{\"tags\":[\"AGM\",\"AbbVie\",\"Acne\",\"AestheticDermatology\",\"AffiliateMember\",\"AffiliateMembers\",\"Allergy\",\"Alopecia\",\"Asthma\",\"AtopicDermatitis\",\"AwarenessCampaigns\",\"AwarenessDays\",\"AwarenessMonths\",\"BillS5\",\"Board\",\"BrandGuidelines\",\"BreakingBarriers\",\"BreakingBarriers26\",\"BullousPemphigoid\",\"CDA\",\"CDASkinSpectrum\",\"CRA\",\"CSPA\",\"CSU\",\"Calgary\",\"CanFAlopeciaConference\",\"Canada\",\"CanadianBurnSurvivorsCommunity\",\"CanadianDermNursesAssociation\",\"CanadianDermatologyAssociation\",\"CanadianMedicalAssociation\",\"CanadianSkinMagazine\",\"CeraVe\",\"Cetaphil\",\"ChangeMakers\",\"ChronicHandEczema\",\"ClinicalTrialsOntario\",\"CoChair\",\"CoalitionOfSkinDiseases\",\"CommuniMed\",\"CyberRisk\",\"DermOfTheYear\",\"Dermatology\",\"EADV\",\"Eczema\",\"EczemaAwareness\",\"EczemaSocietyOfCanada\",\"ExecutiveCommittee\",\"France\",\"GlobalSkin\",\"HS\",\"HS-related\",\"HSFoundation\",\"HubInternational\",\"IMC\",\"Insurance\",\"JRLRResearch\",\"Joomla3\",\"KPIs\",\"Kelman\",\"Knight\",\"LEO\",\"Manitoba\",\"MedSpaPartners\",\"MediaTraining\",\"MelanomaCanada\",\"MemberImpactFund\",\"MentalHealth\",\"MiminegashBurnSociety\",\"NightTherapeutics\",\"NorthAmericanAlliance\",\"Novartis\",\"Ontario\",\"PAP\",\"PatientEngagement\",\"Pemphigus\",\"Pfizer\",\"Pharmaceutical\",\"Psoriasis\",\"PsoriasisCanada\",\"PublicRelations\",\"Quebec\",\"RareDermCommunity\",\"RareDisease\",\"RareDiseases\",\"RareSkinDisease\",\"SRGC\",\"SRGCResearchSkinConference\",\"Sanofi\",\"SocialMedia\",\"T3\",\"Toronto\",\"TwentiethAnniversary\",\"TwentyYearsTwentyVoices\",\"UCB\",\"Website\",\"WorldCongress\",\"WorldCongressOfRareSkinDiseases\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.025Z",
+      "tags": [
+        "AGM",
+        "AbbVie",
+        "Acne",
+        "AestheticDermatology",
+        "AffiliateMember",
+        "AffiliateMembers",
+        "Allergy",
+        "Alopecia",
+        "Asthma",
+        "AtopicDermatitis",
+        "AwarenessCampaigns",
+        "AwarenessDays",
+        "AwarenessMonths",
+        "BillS5",
+        "Board",
+        "BrandGuidelines",
+        "BreakingBarriers",
+        "BreakingBarriers26",
+        "BullousPemphigoid",
+        "CDA",
+        "CDASkinSpectrum",
+        "CRA",
+        "CSPA",
+        "CSU",
+        "Calgary",
+        "CanFAlopeciaConference",
+        "Canada",
+        "CanadianBurnSurvivorsCommunity",
+        "CanadianDermNursesAssociation",
+        "CanadianDermatologyAssociation",
+        "CanadianMedicalAssociation",
+        "CanadianSkinMagazine",
+        "CeraVe",
+        "Cetaphil",
+        "ChangeMakers",
+        "ChronicHandEczema",
+        "ClinicalTrialsOntario",
+        "CoChair",
+        "CoalitionOfSkinDiseases",
+        "CommuniMed",
+        "CyberRisk",
+        "DermOfTheYear",
+        "Dermatology",
+        "EADV",
+        "Eczema",
+        "EczemaAwareness",
+        "EczemaSocietyOfCanada",
+        "ExecutiveCommittee",
+        "France",
+        "GlobalSkin",
+        "HS",
+        "HS-related",
+        "HSFoundation",
+        "HubInternational",
+        "IMC",
+        "Insurance",
+        "JRLRResearch",
+        "Joomla3",
+        "KPIs",
+        "Kelman",
+        "Knight",
+        "LEO",
+        "Manitoba",
+        "MedSpaPartners",
+        "MediaTraining",
+        "MelanomaCanada",
+        "MemberImpactFund",
+        "MentalHealth",
+        "MiminegashBurnSociety",
+        "NightTherapeutics",
+        "NorthAmericanAlliance",
+        "Novartis",
+        "Ontario",
+        "PAP",
+        "PatientEngagement",
+        "Pemphigus",
+        "Pfizer",
+        "Pharmaceutical",
+        "Psoriasis",
+        "PsoriasisCanada",
+        "PublicRelations",
+        "Quebec",
+        "RareDermCommunity",
+        "RareDisease",
+        "RareDiseases",
+        "RareSkinDisease",
+        "SRGC",
+        "SRGCResearchSkinConference",
+        "Sanofi",
+        "SocialMedia",
+        "T3",
+        "Toronto",
+        "TwentiethAnniversary",
+        "TwentyYearsTwentyVoices",
+        "UCB",
+        "Website",
+        "WorldCongress",
+        "WorldCongressOfRareSkinDiseases"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-14-07-14-meeting-yellowknife-access-point-telus-account-escalation-and-travel-booking.md": {
+      "signature": "{\"tags\":[\"AccessPoint\",\"Aeroplan\",\"AirCanada\",\"AirCanadaRouge\",\"BC\",\"BusinessConnect\",\"CAPTCHA\",\"Canada\",\"Edmonton\",\"FortiCare\",\"GoYellowknife\",\"Google\",\"Nexus\",\"ParkNFly\",\"Pearson\",\"PearsonParking\",\"Perkopolis\",\"TELUS\",\"TravelBooking\",\"WestJet\",\"WiFi\",\"WirelessAccessPoint\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.028Z",
+      "tags": [
+        "AccessPoint",
+        "Aeroplan",
+        "AirCanada",
+        "AirCanadaRouge",
+        "BC",
+        "BusinessConnect",
+        "CAPTCHA",
+        "Canada",
+        "Edmonton",
+        "FortiCare",
+        "GoYellowknife",
+        "Google",
+        "Nexus",
+        "ParkNFly",
+        "Pearson",
+        "PearsonParking",
+        "Perkopolis",
+        "TELUS",
+        "TravelBooking",
+        "WestJet",
+        "WiFi",
+        "WirelessAccessPoint"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-14-07-14-meeting-starlink-connectivity-exploration-for-salvation-army-canada.md": {
+      "signature": "{\"tags\":[\"AI\",\"BellCanada\",\"Bermuda\",\"BermudaTelephone\",\"BoothUniversityCollege\",\"BritishColumbia\",\"Canada\",\"CommunityGateways\",\"Connectivity\",\"DSL\",\"DataGovernance\",\"DataSovereignty\",\"DigitalTransformation\",\"E911\",\"Education\",\"EmergencyDisasterServices\",\"Europe\",\"Failover\",\"FreedomOfInformationAct\",\"Haiti\",\"ISP\",\"IT\",\"ImpactServicePlan\",\"LTE\",\"MSA\",\"Mobility\",\"Montreal\",\"NG911\",\"NaturalDisasters\",\"Netflix\",\"NonProfit\",\"Nonprofit\",\"Nonprofits\",\"NorthwestTerritories\",\"NovaScotia\",\"Nunavut\",\"Ontario\",\"POTS\",\"PerformanceKit\",\"PerformanceKits\",\"SalvationArmy\",\"SalvationArmyCanada\",\"SpaceX\",\"Starlink\",\"StateAndLocalGovernment\",\"StrategicConnectivity\",\"TCO\",\"Toronto\",\"US\",\"USDataCenters\",\"Vancouver\",\"VancouverIsland\",\"Venezuela\",\"VoIP\",\"WiMAX\",\"WildfireResponse\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.031Z",
+      "tags": [
+        "AI",
+        "BellCanada",
+        "Bermuda",
+        "BermudaTelephone",
+        "BoothUniversityCollege",
+        "BritishColumbia",
+        "Canada",
+        "CommunityGateways",
+        "Connectivity",
+        "DSL",
+        "DataGovernance",
+        "DataSovereignty",
+        "DigitalTransformation",
+        "E911",
+        "Education",
+        "EmergencyDisasterServices",
+        "Europe",
+        "Failover",
+        "FreedomOfInformationAct",
+        "Haiti",
+        "ISP",
+        "IT",
+        "ImpactServicePlan",
+        "LTE",
+        "MSA",
+        "Mobility",
+        "Montreal",
+        "NG911",
+        "NaturalDisasters",
+        "Netflix",
+        "NonProfit",
+        "Nonprofit",
+        "Nonprofits",
+        "NorthwestTerritories",
+        "NovaScotia",
+        "Nunavut",
+        "Ontario",
+        "POTS",
+        "PerformanceKit",
+        "PerformanceKits",
+        "SalvationArmy",
+        "SalvationArmyCanada",
+        "SpaceX",
+        "Starlink",
+        "StateAndLocalGovernment",
+        "StrategicConnectivity",
+        "TCO",
+        "Toronto",
+        "US",
+        "USDataCenters",
+        "Vancouver",
+        "VancouverIsland",
+        "Venezuela",
+        "VoIP",
+        "WiMAX",
+        "WildfireResponse"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-14-07-14-meeting-laptop-fulfillment-time-clock-go-live-and-security-ownership.md": {
+      "signature": "{\"tags\":[\"Audit\",\"CapabilityCabinet\",\"CrowdStrike\",\"EliteBook\",\"GoLive\",\"IT\",\"ITAM\",\"InfoSec\",\"Infrastructure\",\"IntakeProcess\",\"MFA\",\"MIT\",\"Netskope\",\"PatchingFramework\",\"RACI\",\"Security\",\"SecurityPolicy\",\"ServiceNow\",\"TimeClock\",\"Workday\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.034Z",
+      "tags": [
+        "Audit",
+        "CapabilityCabinet",
+        "CrowdStrike",
+        "EliteBook",
+        "GoLive",
+        "IT",
+        "ITAM",
+        "InfoSec",
+        "Infrastructure",
+        "IntakeProcess",
+        "MFA",
+        "MIT",
+        "Netskope",
+        "PatchingFramework",
+        "RACI",
+        "Security",
+        "SecurityPolicy",
+        "ServiceNow",
+        "TimeClock",
+        "Workday"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-14-07-14-meeting-it-operations-leadership-transitions-and-travel-planning.md": {
+      "signature": "{\"tags\":[\"AGC\",\"Calgary\",\"DemandManagement\",\"Edmonton\",\"EnterpriseApplications\",\"FacilitiesManager\",\"Finance\",\"ForestFires\",\"HarbourLight\",\"HongKong\",\"ITOperations\",\"IntakeManagement\",\"Kamloops\",\"Kelowna\",\"MIT\",\"Retirement\",\"RetirementParty\",\"SalvationArmy\",\"Saskatchewan\",\"Uganda\",\"Vancouver\",\"Workday\",\"Zimbabwe\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.036Z",
+      "tags": [
+        "AGC",
+        "Calgary",
+        "DemandManagement",
+        "Edmonton",
+        "EnterpriseApplications",
+        "FacilitiesManager",
+        "Finance",
+        "ForestFires",
+        "HarbourLight",
+        "HongKong",
+        "ITOperations",
+        "IntakeManagement",
+        "Kamloops",
+        "Kelowna",
+        "MIT",
+        "Retirement",
+        "RetirementParty",
+        "SalvationArmy",
+        "Saskatchewan",
+        "Uganda",
+        "Vancouver",
+        "Workday",
+        "Zimbabwe"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-14-07-14-meeting-it-intake-process-and-rfi-triage-in-servicenow.md": {
+      "signature": "{\"tags\":[\"AmazonServices\",\"AmazonServices-style\",\"Audit\",\"CRM\",\"CapabilityCabinet\",\"CatalogRequest\",\"Criticality\",\"DevOps\",\"Hardware\",\"IT\",\"ITDemand\",\"ITFriend\",\"ITFulfillment\",\"ITIntakeProcess\",\"ITPolicies\",\"ITTeams\",\"Incident\",\"MinistryUnit\",\"MinistryUnits\",\"NOA\",\"NOAs\",\"PMO\",\"Platforms\",\"Procurement\",\"ProgramRequirement\",\"ProgramRequirements\",\"ProgramRisk\",\"RFI\",\"RequestForService\",\"Roadmap\",\"SLAs\",\"SSO\",\"SaaS\",\"Salesforce\",\"Security\",\"SecurityRisk\",\"ServiceNow\",\"SharePoint\",\"Smartsheet\",\"Software\",\"Visibility\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.039Z",
+      "tags": [
+        "AmazonServices",
+        "AmazonServices-style",
+        "Audit",
+        "CRM",
+        "CapabilityCabinet",
+        "CatalogRequest",
+        "Criticality",
+        "DevOps",
+        "Hardware",
+        "IT",
+        "ITDemand",
+        "ITFriend",
+        "ITFulfillment",
+        "ITIntakeProcess",
+        "ITPolicies",
+        "ITTeams",
+        "Incident",
+        "MinistryUnit",
+        "MinistryUnits",
+        "NOA",
+        "NOAs",
+        "PMO",
+        "Platforms",
+        "Procurement",
+        "ProgramRequirement",
+        "ProgramRequirements",
+        "ProgramRisk",
+        "RFI",
+        "RequestForService",
+        "Roadmap",
+        "SLAs",
+        "SSO",
+        "SaaS",
+        "Salesforce",
+        "Security",
+        "SecurityRisk",
+        "ServiceNow",
+        "SharePoint",
+        "Smartsheet",
+        "Software",
+        "Visibility"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-13-07-13-meeting-ministry-unit-endpoint-management-and-cloud-join-strategy.md": {
+      "signature": "{\"tags\":[\"ActiveDirectory\",\"AdministrativeUnits\",\"Atera\",\"Azure\",\"AzureAD\",\"CloudJoin\",\"CloudManaged\",\"Entra\",\"EntraJoin\",\"Firewall\",\"FortiCloud\",\"Fortinet\",\"GPO\",\"IP\",\"Insight\",\"Intune\",\"IntuneHybridJoin\",\"Microsoft\",\"MinistryUnit\",\"Netskope\",\"ReadOnlyDomainController\",\"Scenario3B\",\"SharePoint\",\"TSACB\",\"VPN\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.042Z",
+      "tags": [
+        "ActiveDirectory",
+        "AdministrativeUnits",
+        "Atera",
+        "Azure",
+        "AzureAD",
+        "CloudJoin",
+        "CloudManaged",
+        "Entra",
+        "EntraJoin",
+        "Firewall",
+        "FortiCloud",
+        "Fortinet",
+        "GPO",
+        "IP",
+        "Insight",
+        "Intune",
+        "IntuneHybridJoin",
+        "Microsoft",
+        "MinistryUnit",
+        "Netskope",
+        "ReadOnlyDomainController",
+        "Scenario3B",
+        "SharePoint",
+        "TSACB",
+        "VPN"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-13-07-13-meeting-itsm-change-governance-release-management-and-staffing-planning.md": {
+      "signature": "{\"tags\":[\"ApplicationTeam\",\"ApplicationTeams\",\"Archibus\",\"BAU\",\"BaselineTesting\",\"CAB\",\"CI\",\"CIAttestation\",\"CIs\",\"CapabilityCabinet\",\"ChangeManagement\",\"CloudEngineering\",\"CoPilot\",\"CompBoard\",\"Desjardins\",\"DevOps\",\"DocuSign\",\"EnterpriseApplications\",\"Gartner\",\"Graham\",\"HR\",\"HRBP\",\"IT\",\"ITAM\",\"ITSM\",\"ITSMOperationsReport\",\"ITSMReview\",\"IncidentManagement\",\"KepnerTregoe\",\"LifePre\",\"Liferay\",\"Liliana\",\"Moneris\",\"MuleSoft\",\"OneLogin\",\"PIR\",\"PIR-related\",\"ProblemManagement\",\"ReleaseManagement\",\"SaaS\",\"Salesforce\",\"SalesforceIntegration\",\"ServiceNow\",\"Shopify\",\"Subro\",\"Tomcat\",\"Workday\",\"Yasser\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.045Z",
+      "tags": [
+        "ApplicationTeam",
+        "ApplicationTeams",
+        "Archibus",
+        "BAU",
+        "BaselineTesting",
+        "CAB",
+        "CI",
+        "CIAttestation",
+        "CIs",
+        "CapabilityCabinet",
+        "ChangeManagement",
+        "CloudEngineering",
+        "CoPilot",
+        "CompBoard",
+        "Desjardins",
+        "DevOps",
+        "DocuSign",
+        "EnterpriseApplications",
+        "Gartner",
+        "Graham",
+        "HR",
+        "HRBP",
+        "IT",
+        "ITAM",
+        "ITSM",
+        "ITSMOperationsReport",
+        "ITSMReview",
+        "IncidentManagement",
+        "KepnerTregoe",
+        "LifePre",
+        "Liferay",
+        "Liliana",
+        "Moneris",
+        "MuleSoft",
+        "OneLogin",
+        "PIR",
+        "PIR-related",
+        "ProblemManagement",
+        "ReleaseManagement",
+        "SaaS",
+        "Salesforce",
+        "SalesforceIntegration",
+        "ServiceNow",
+        "Shopify",
+        "Subro",
+        "Tomcat",
+        "Workday",
+        "Yasser"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-10-07-10-meeting-smrd-ministry-unit-partnerships-and-travel-logistics.md": {
+      "signature": "{\"tags\":[\"5KCamera\",\"AI\",\"AmyFisher\",\"Bastion\",\"Bonvoy\",\"BramptonFamilyLifeResourceCenter\",\"CSCalgary\",\"CatherinesBoothCenter\",\"CourtyardMarriott\",\"CuthbertHouse\",\"Dashboard\",\"Edmonton\",\"EmailMigration\",\"FLRC\",\"FY27\",\"FloatPlane\",\"HalifaxCenterOfHope\",\"ITBudget\",\"Kingston\",\"KingstonHarborLight\",\"ManagedITSupport\",\"Marriott\",\"MikeHatt\",\"MinistryUnit\",\"MinistryUnits\",\"MonctonCitadel\",\"Nanaimo\",\"OttawaBethanyHopeCenter\",\"OttawaBoothCenter\",\"RichmondHouse\",\"RidgeMeadows\",\"SMRD\",\"SmallBlessings\",\"SocialMission\",\"SteelShelter\",\"TravelLogistics\",\"UPS\",\"Vancouver\",\"VancouverHarborLight\",\"Victoria\",\"VictoriaCitadel\",\"WestJet\",\"WestinWallCentreAirport\",\"WinnipegCommunityVentures\",\"YorkRegionHousingAndSupportServices\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.047Z",
+      "tags": [
+        "5KCamera",
+        "AI",
+        "AmyFisher",
+        "Bastion",
+        "Bonvoy",
+        "BramptonFamilyLifeResourceCenter",
+        "CSCalgary",
+        "CatherinesBoothCenter",
+        "CourtyardMarriott",
+        "CuthbertHouse",
+        "Dashboard",
+        "Edmonton",
+        "EmailMigration",
+        "FLRC",
+        "FY27",
+        "FloatPlane",
+        "HalifaxCenterOfHope",
+        "ITBudget",
+        "Kingston",
+        "KingstonHarborLight",
+        "ManagedITSupport",
+        "Marriott",
+        "MikeHatt",
+        "MinistryUnit",
+        "MinistryUnits",
+        "MonctonCitadel",
+        "Nanaimo",
+        "OttawaBethanyHopeCenter",
+        "OttawaBoothCenter",
+        "RichmondHouse",
+        "RidgeMeadows",
+        "SMRD",
+        "SmallBlessings",
+        "SocialMission",
+        "SteelShelter",
+        "TravelLogistics",
+        "UPS",
+        "Vancouver",
+        "VancouverHarborLight",
+        "Victoria",
+        "VictoriaCitadel",
+        "WestJet",
+        "WestinWallCentreAirport",
+        "WinnipegCommunityVentures",
+        "YorkRegionHousingAndSupportServices"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-10-07-10-meeting-managed-it-services-expansion-and-smrd-alignment.md": {
+      "signature": "{\"tags\":[\"Alliston\",\"AreaCommander\",\"AreaCommanders\",\"BelkinHouse\",\"BusinessPartner\",\"CSCalgary\",\"Calgary\",\"Edmonton\",\"Honda\",\"IT\",\"ITSecurity\",\"ITSupport\",\"ManagedITServices\",\"MinistryUnits\",\"Montreal\",\"Network\",\"Ontario\",\"PNT\",\"PrinceAlbert\",\"Regina\",\"Rosthern\",\"SMRD\",\"SMRDS\",\"SMRDs\",\"Saskatchewan\",\"Saskatoon\",\"THQ\",\"THQIT\",\"TMB\",\"TSAIT\",\"TeamLead\",\"Teams\",\"TheSalvationArmy\",\"Toronto\",\"Vancouver\",\"VancouverHarborLight\",\"Waterston\",\"Winnipeg\",\"WinnipegCJS\",\"WinnipegCenterOfHope\",\"WinnipegCommunityVenture\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.049Z",
+      "tags": [
+        "Alliston",
+        "AreaCommander",
+        "AreaCommanders",
+        "BelkinHouse",
+        "BusinessPartner",
+        "CSCalgary",
+        "Calgary",
+        "Edmonton",
+        "Honda",
+        "IT",
+        "ITSecurity",
+        "ITSupport",
+        "ManagedITServices",
+        "MinistryUnits",
+        "Montreal",
+        "Network",
+        "Ontario",
+        "PNT",
+        "PrinceAlbert",
+        "Regina",
+        "Rosthern",
+        "SMRD",
+        "SMRDS",
+        "SMRDs",
+        "Saskatchewan",
+        "Saskatoon",
+        "THQ",
+        "THQIT",
+        "TMB",
+        "TSAIT",
+        "TeamLead",
+        "Teams",
+        "TheSalvationArmy",
+        "Toronto",
+        "Vancouver",
+        "VancouverHarborLight",
+        "Waterston",
+        "Winnipeg",
+        "WinnipegCJS",
+        "WinnipegCenterOfHope",
+        "WinnipegCommunityVenture"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-09-07-09-meeting-one-identity-smartfactor-licensing-training-and-salesforce-2fa-defect-follow-up.md": {
+      "signature": "{\"tags\":[\"2FA\",\"CustomerSuccessManager\",\"IdentityAndAccessManagement\",\"NET\",\"Okta\",\"OneIdentity\",\"OneLogin\",\"PSO\",\"PhishingResistant\",\"ProfessionalServices\",\"Regex\",\"SCIM\",\"SailPoint\",\"Salesforce\",\"Saviynt\",\"SmartFactor\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.066Z",
+      "tags": [
+        "2FA",
+        "CustomerSuccessManager",
+        "IdentityAndAccessManagement",
+        "NET",
+        "Okta",
+        "OneIdentity",
+        "OneLogin",
+        "PSO",
+        "PhishingResistant",
+        "ProfessionalServices",
+        "Regex",
+        "SCIM",
+        "SailPoint",
+        "Salesforce",
+        "Saviynt",
+        "SmartFactor"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-09-07-09-meeting-microsoft-unified-support-invoice-and-ministry-unit-it-expense-reporting.md": {
+      "signature": "{\"tags\":[\"BusinessWorld\",\"Capex\",\"GL\",\"IT\",\"Microsoft\",\"MicrosoftUnifiedSupport\",\"MinistryUnit\",\"NRO\",\"Opex\",\"THQ\",\"UnifiedSupport\",\"budgetPlanning\",\"chargeback\",\"creditMemo\",\"technology\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.069Z",
+      "tags": [
+        "BusinessWorld",
+        "Capex",
+        "GL",
+        "IT",
+        "Microsoft",
+        "MicrosoftUnifiedSupport",
+        "MinistryUnit",
+        "NRO",
+        "Opex",
+        "THQ",
+        "UnifiedSupport",
+        "budgetPlanning",
+        "chargeback",
+        "creditMemo",
+        "technology"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-09-07-09-meeting-financial-reporting-access-and-technology-spend-review.md": {
+      "signature": "{\"tags\":[\"Amazon\",\"BARS\",\"Communications\",\"Dentons\",\"FY26\",\"FinancialReports\",\"HP\",\"Hardware\",\"KPMG\",\"Maintenance\",\"Montreal\",\"OfficeEquipment\",\"Ottawa\",\"ProfessionalFees\",\"Telecom\",\"Telus\",\"Xsense\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.071Z",
+      "tags": [
+        "Amazon",
+        "BARS",
+        "Communications",
+        "Dentons",
+        "FY26",
+        "FinancialReports",
+        "HP",
+        "Hardware",
+        "KPMG",
+        "Maintenance",
+        "Montreal",
+        "OfficeEquipment",
+        "Ottawa",
+        "ProfessionalFees",
+        "Telecom",
+        "Telus",
+        "Xsense"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-08-07-08-meeting-victoria-citadel-managed-services-proposal-and-network-infrastructure-upgrades.md": {
+      "signature": "{\"tags\":[\"Fortinet\",\"MPass\",\"Meraki\",\"Rogers\",\"UniFi\",\"VoIP\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.072Z",
+      "tags": [
+        "Fortinet",
+        "MPass",
+        "Meraki",
+        "Rogers",
+        "UniFi",
+        "VoIP"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-08-07-08-meeting-servicenow-license-management-itsm-process-optimization-and-fortinet-enterprise-agreement.md": {
+      "signature": "{\"tags\":[\"AWS\",\"CMDB\",\"Fortinet\",\"Google\",\"ITSM\",\"Nvidia\",\"Procureify\",\"ServiceNow\",\"SolarWinds\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.074Z",
+      "tags": [
+        "AWS",
+        "CMDB",
+        "Fortinet",
+        "Google",
+        "ITSM",
+        "Nvidia",
+        "Procureify",
+        "ServiceNow",
+        "SolarWinds"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-08-07-08-meeting-legal-request-for-former-contractor-employment-records.md": {
+      "signature": "{\"tags\":[\"Workday\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.076Z",
+      "tags": [
+        "Workday"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-08-07-08-meeting-it-budget-reconciliation-and-cost-center-allocation-review.md": {
+      "signature": "{\"tags\":[\"BusinessWorld\",\"Capex\",\"Gartner\",\"IT\",\"ITTeam\",\"InfrastructureServices\",\"MIT\",\"MicrosoftUnifiedSupport\",\"OPEX\",\"P4\",\"PL-style\",\"Reboot\",\"Ubiquity\",\"Workday\",\"chargeback\",\"chargebacks\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.078Z",
+      "tags": [
+        "BusinessWorld",
+        "Capex",
+        "Gartner",
+        "IT",
+        "ITTeam",
+        "InfrastructureServices",
+        "MIT",
+        "MicrosoftUnifiedSupport",
+        "OPEX",
+        "P4",
+        "PL-style",
+        "Reboot",
+        "Ubiquity",
+        "Workday",
+        "chargeback",
+        "chargebacks"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-08-07-08-incident-review-dns-security-audit-stolen-password-and-legacy-record-removal.md": {
+      "signature": "{\"tags\":[\"ADFS\",\"Azure\",\"MFA\",\"Proofpoint\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.080Z",
+      "tags": [
+        "ADFS",
+        "Azure",
+        "MFA",
+        "Proofpoint"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-07-07-07-meeting-vhl-project-closure-and-domain-strategy-review.md": {
+      "signature": "{\"tags\":[\"ActiveDirectory\",\"Algo\",\"DocuSign\",\"DomainStrategy\",\"Netscope\",\"VHL\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.081Z",
+      "tags": [
+        "ActiveDirectory",
+        "Algo",
+        "DocuSign",
+        "DomainStrategy",
+        "Netscope",
+        "VHL"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-07-07-07-meeting-obsidian-knowledge-management-system-demo-and-ai-integration-planning.md": {
+      "signature": "{\"tags\":[\"ChatGPT\",\"Claude\",\"Fortinet\",\"Gemini\",\"Intune\",\"Obsidian\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.083Z",
+      "tags": [
+        "ChatGPT",
+        "Claude",
+        "Fortinet",
+        "Gemini",
+        "Intune",
+        "Obsidian"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-07-07-07-meeting-max-s-promotion-from-it-technician-to-field-specialist-and-cross-province-transfer.md": {
+      "signature": "{\"tags\":[\"Workday\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.085Z",
+      "tags": [
+        "Workday"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-07-07-07-meeting-kepner-tregoe-methodology-implementation-it-organization-major-incident-management.md": {
+      "signature": "{\"tags\":[\"ITIL\",\"ITSM\",\"KepnerTregoe\",\"MajorIncidentManagement\",\"PIR\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.086Z",
+      "tags": [
+        "ITIL",
+        "ITSM",
+        "KepnerTregoe",
+        "MajorIncidentManagement",
+        "PIR"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-07-07-07-meeting-kepner-tregoe-methodology-implementation-and-teams-external-access-configuration.md": {
+      "signature": "{\"tags\":[\"ChatGPT\",\"KT\",\"Teams\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.089Z",
+      "tags": [
+        "ChatGPT",
+        "KT",
+        "Teams"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-07-07-07-meeting-cuthbert-house-meraki-equipment-replacement-and-managed-services-adoption.md": {
+      "signature": "{\"tags\":[\"Fortinet\",\"ManagedServices\",\"Meraki\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.090Z",
+      "tags": [
+        "Fortinet",
+        "ManagedServices",
+        "Meraki"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-07-07-07-change-advisory-board-meeting-hotfix-deployment-and-security-enhancements.md": {
+      "signature": "{\"tags\":[\"AzureDevOps\",\"Delinea\",\"ServiceNow\",\"Snowflake\",\"Workday\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.092Z",
+      "tags": [
+        "AzureDevOps",
+        "Delinea",
+        "ServiceNow",
+        "Snowflake",
+        "Workday"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-06-07-06-team-meeting-it-project-funding-mslf-policy-presentation-and-administrative-coordination.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.094Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-06-07-06-meeting-vpn-security-and-administrative-access-controls.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.095Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-06-07-06-meeting-vpn-mfa-policy-network-architecture-and-personnel-management.md": {
+      "signature": "{\"tags\":[\"DomainStrategy\",\"Fortinet\",\"Intune\",\"Microsoft\"],\"people\":[\"98.Knowledge/People/Frank Adili.md\",\"98.Knowledge/People/Sanjay Pattni.md\"],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.097Z",
+      "tags": [
+        "DomainStrategy",
+        "Fortinet",
+        "Intune",
+        "Microsoft"
+      ],
+      "people": [
+        "98.Knowledge/People/Frank Adili.md",
+        "98.Knowledge/People/Sanjay Pattni.md"
+      ],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-06-07-06-meeting-it-infrastructure-strategy-team-restructuring-and-legacy-system-decommissioning.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.098Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-06-07-06-meeting-erp-project-planning-workday-security-issues-and-it-resource-challenges.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.100Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-06-07-06-meeting-chris-the-salvation-army-and-priya-university-of-alberta-career-transitions-and-technology-challenges.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.102Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-06-07-06-internal-check-in-chrisa-and-hanan-sponsorship-updates-scheduling-and-staffing.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.103Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-02-07-02-meeting-telecom-consolidation-project-review-vendor-challenges-and-rogers-account-status.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.105Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-02-07-02-meeting-technology-support-for-retired-generals-and-international-assignment-planning.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.107Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-02-07-02-meeting-sponsorship-coordination-and-event-planning.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.109Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-02-07-02-meeting-lms-for-volunteers-project-kickoff.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.110Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-02-07-02-meeting-it-equipment-upgrade-discussion-general-pele-and-christopher.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.112Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-02-07-02-meeting-it-equipment-and-support-discussion-general-bond-and-christopher-salvation-army-thq.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.113Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-07-02-07-02-meeting-it-demand-management-and-value-realization-framework-development.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.115Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-30-06-30-meeting-invoice-processing-copilot-agent-data-extraction-verification-automation-and-testing-plan.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.117Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-30-06-30-meeting-ict-operations-and-vendor-strategy.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.118Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-29-06-29-weekly-meeting-rfi-intake-redesign-bcp-dr-updates-itam-role-review-and-workday-integration.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.120Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-29-06-29-strategic-alignment-and-operational-challenges-in-it.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.122Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-29-06-29-performance-review-bradley-griffin-competencies-and-goals.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.123Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-26-06-26-reasoning-note-analyzing-talent-flight-of-an-intune-specialist-and-proposing-a-retention-strategy-against-usd-compensation-pressure.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.126Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-26-06-26-meeting-mu-count-discrepancy-and-data-integrity.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.127Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-26-06-26-meeting-mit-plan-approval-troubled-locations-and-budget.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.129Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-26-06-26-meeting-leadership-staffing-and-it-strategy.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.130Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-26-06-26-meeting-fortinet-enterprise-agreement-budget-financing-and-cash-flow-clarifications.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.132Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-25-06-25-meeting-time-clock-support-transition-process-ownership-and-servicenow-integration.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.134Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-25-06-25-meeting-it-finance-capability-mapping-power-bi-policy.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.135Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-25-06-25-meeting-camera-system-invoice-grant-eligibility-senior-tech-hiring-and-golf-outing-planning.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.137Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-25-06-25-interview-christopher-ricetto-senior-director-of-managed-it-services-at-the-salvation-army-continuous-improvements-national-consistency-with-local-relevance-and-modernization-vision.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.139Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-25-06-25-defining-the-role-of-it-service-delivery-as-a-strategic-force-multiplier.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.140Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-25-06-25-casual-conversation-new-employee-onboarding-and-training-needs.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.142Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-24-06-24-weekly-meeting-infrastructure-security-and-onboarding.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.144Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-24-06-24-meeting-security-operations-patch-management-dark-web-monitoring-network-segregation-and-infrastructure-upgrades.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.145Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-24-06-24-meeting-hr-module-prioritization-budget-approvals-and-it-governance.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.147Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-24-06-24-leadership-failure-in-accountability-and-reporting-leads-to-project-dysfunction.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.149Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-11-06-11-weekly-meeting-contract-management-budgeting-and-security.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.151Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-11-06-11-strategic-decision-on-pmo-director-placement-to-counteract-control-consolidation.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.152Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-11-06-11-procurement-role-definition-servicenow-contract-management-and-transition-plan-for-daisy.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.154Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-11-06-11-consultation-unified-iga-pam-strategy-for-non-profit-with-donor-data-protection.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.156Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-10-06-10-weekly-meeting-new-hires-training-policy-and-service-desk-performance.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.157Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-10-06-10-meeting-hr-system-challenges-and-scheduling-solutions.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.159Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-10-06-10-meeting-contract-management-process-confusion-and-standardization.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.160Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-10-06-10-interview-senior-pm.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.162Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-09-06-09-weekly-meeting-log-collection-and-mu-support-strategy.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.163Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-09-06-09-meeting-contract-management-process-consolidation-and-roles-alignment.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.165Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-09-06-09-firewall-admin-interface-exposed-misunderstood-access-controls-create-critical-attack-surface.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.167Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-08-06-08-weekly-meeting-servicenow-team-capacity-and-budget.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.168Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-08-06-08-meeting-it-finance-chargebacks-and-license-recognition.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.170Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-05-06-05-opportunistic-growth-via-talent-re-alignment-and-physical-security-pilot-with-verkada.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.171Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-05-06-05-interview-female-candidate-identity-practice-leadership-and-compensation.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.173Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-04-06-04-weekly-meeting-lena-s-performance-servicenow-strategy-and-fy2027-planning.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.174Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-03-06-03-weekly-meeting-ci-accuracy-incident-categorization-and-reporting.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.176Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-03-06-03-meeting-authentication-mechanisms-and-user-provisioning.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.177Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-03-06-03-leadership-pod-meeting-release-management-communications-standardization-and-governance.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.179Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-03-06-03-finance-meeting-cost-center-allocation-for-jonathan-s-visa-expenses-and-expense-policy-ownership.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.181Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-03-06-03-consultation-ottawa-booth-ediscovery-and-migration-m365-collections-legal-holds-third-party-server-access.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.182Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-01-06-01-meeting-vendor-pricing-and-elp-discussion.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.184Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-06-01-06-01-de-escalation-and-reprioritization-following-a-team-conflict.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.186Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-28-05-28-venting-session-leadership-frustration-and-servicenow-form-conflict.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.187Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-25-05-25-weekly-meeting-four-day-work-week-fte-conversion-service-desk-metrics.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.189Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-25-05-25-project-meeting-deployment-scenarios-costing-and-post-support-decisions.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.190Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-25-05-25-team-meeting-identity-function-leadership-model-sme-interviews-and-communication-plan.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.192Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-25-05-25-meeting-logrhythm-replacement-and-firewall-log-collection.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.193Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-25-05-25-meeting-it-support-performance-and-employee-feedback.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.195Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-25-05-25-interview-michael-azar-identity-and-access-management.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.196Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-25-05-25-interview-chrisa-identity-governance-strategy-and-sme-hiring.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.198Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-22-05-22-team-rejects-flawed-client-communication-for-security-migration-opting-for-proactive-reassurance.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.199Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-22-05-22-critical-servicenow-vulnerability-allows-unauthorized-approvals-via-external-email.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.201Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-22-05-22-consultation-unified-msp-strategy-identity-lifecycle-and-ai-pilot-for-the-salvation-army.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.203Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-21-05-21-weekly-meeting-it-fulfillment-project-manager-recruitment-and-contractor-review.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.204Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-21-05-21-meeting-responsiveness-broadview-strike-contingency-capacity-decisions-agc-process-alignment.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.206Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-21-05-21-meeting-presentation-debrief-and-risk-management.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.207Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-21-05-21-interview-lead-identity-engineer-director-candidate-iam-iga-governance-okta-oig-role-harmonization.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.209Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-21-05-21-interview-iam-operational-specialist-governance-integrations-and-incident-response-salvation-army-canada.md": {
+      "signature": "{\"tags\":[\"1\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.211Z",
+      "tags": [
+        "1"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-21-05-21-interview-ag-capability-lead-vs-director-role-compensation-and-scheduling.md": {
+      "signature": "{\"tags\":[\"3\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.212Z",
+      "tags": [
+        "3"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-21-05-21-dual-senior-hires-over-director-to-accelerate-identity-program-execution-amid-headcount-and-culture-constraints.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.214Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-21-05-21-agc-mobility-governance-fix-and-strike-access-policy-vendor-qa-controls-sme-sign-off-and-security-optics-balance.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.215Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-20-05-20-meeting-organizational-strategy-bylaw-conflicts-and-legal-exposure.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.217Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-20-05-20-meeting-managed-it-services-program-connectivity-consolidation-standardization-pricing-and-mandate-planning.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.219Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-20-05-20-meeting-infrastructure-support-identity-counts-and-recruitment.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.220Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-20-05-20-meeting-egc-impact-stakeholder-sensitivities-governance-and-apex-vendor-transition.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.222Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-20-05-20-fulfillment-ai-mvp-copilot-pilot-to-automate-vendor-pdf-chargebacks-and-contract-template-verification.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.223Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-20-05-20-analysis-of-leadership-collapse-due-to-governance-deadlock-and-power-plays.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.225Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-19-05-19-meeting-server-migration-strategy-and-planning.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.226Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-19-05-19-interview-rick-director-of-iam.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.228Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-19-05-19-interview-iam-director-and-solution-specialist-scheduling-chrisa-availability-and-role-prioritization.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.229Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-19-05-19-change-advisory-board-meeting-mydata-mvp-access-volunteer-management-rollout-mfa-enablement-intune-profiles-server-nutanix-setup-servicenow-cleanup-patch-tuesday-standard-change.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.231Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-15-05-15-governance-breakdown-overshadows-salesforce-incident-fix-contract-controls-enforce-mi-discipline-let-tech-complete-root-cause.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.233Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-14-05-14-weekly-meeting-telus-to-apex-transition-role-clarity-and-future-planning.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.234Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-14-05-14-weekly-meeting-technical-issues-project-requests-and-leadership.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.236Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-14-05-14-weekly-meeting-revising-presentation-on-ministry-unit-statistics.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.237Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-14-05-14-weekly-meeting-governance-cadence-crm-priority-release-management-and-budget-cuts.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.239Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-14-05-14-weekly-meeting-capital-budget-reduction.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.240Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-14-05-14-meeting-legal-request-for-archived-mailbox.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.242Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-14-05-14-meeting-invoice-processing-and-fy26-allocation.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.243Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-13-05-13-weekly-meeting-it-programs-performance-management-and-security-risks.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.245Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-13-05-13-meeting-agc-project-roles-raci-clarification-and-mobility-communications-via-apex.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.247Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-13-05-13-kickoff-meeting-time-clock-transition-project.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.248Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-12-05-12-team-meeting-it-intake-strategy-release-management-rollout-workday-data-integrity-and-audit-coordination.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.250Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-12-05-12-project-meeting-pre-staging-deployment-secure-wi-fi-eula-sow-budget-and-on-site-hypercare-plan.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.252Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-12-05-12-project-meeting-mydata-mvp-go-live-plan-uat-results-support-structure-and-governance.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.253Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-12-05-12-meeting-identity-conference-decision-platform-strategy-capacity-and-budget-defense.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.255Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-12-05-12-interview-annabelle.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.256Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-11-05-11-weekly-meeting-data-sharing-cabling-issues-and-budgeting.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.258Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-11-05-11-meeting-service-desk-operations-identity-validation-knowledge-management-and-asset-handling.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.260Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-11-05-11-meeting-mu-tiering-onboarding-sop-raci-and-sustainment-integrated-pipeline-planning.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.261Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-11-05-11-meeting-cost-reduction-dashboard-review-and-financial-reporting.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.263Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-11-05-11-meeting-budget-reporting-critique-and-project-staffing.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.264Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-05-05-05-project-meeting-managed-it-services-deck-savings-reconciliation-and-windows-11-policy-updates.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.266Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-01-05-01-weekly-meeting-audit-process-map-and-it-issues.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.267Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-01-05-01-meeting-microsoft-licensing-closeout-presentation-review.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.269Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-01-05-01-meeting-euc-digital-workplace-scope-patching-strategy-and-microsoft-365-governance.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.270Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-01-05-01-meeting-capex-security-setup-managed-services-transition-cloud-telephony-and-compliance-roadmap.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.272Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-05-01-05-01-leadership-meeting-senior-team-cohesion-role-clarity-and-issue-tracking.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.273Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-30-04-30-weekly-meeting-budget-discrepancies-and-project-status.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.275Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-29-04-29-meeting-microsoft-unified-support-credit-allocation-and-fy27-budget-treatment.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.277Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-29-04-29-analysis-of-systemic-frustrations-stemming-from-leadership-and-process-breakdowns.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.278Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-28-04-28-meeting-cab-approvals-exchange-rule-bypass-and-zero-day-patch-standardization.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.280Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-28-04-28-meeting-application-management-shadow-it-risks-and-noa-review.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.281Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-27-04-27-meeting-salesforce-engagement-tool-for-cross-team-collaboration.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.283Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-27-04-27-meeting-post-90-day-account-policy-ai-tool-requests-canada-summer-jobs-funding-event-planning-time-clock-ownership-and-volunteer-engagement.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.284Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-27-04-27-interview-chris-gale-strategic-it-leadership-pmo-fit-and-national-scale-msp-modernization.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.286Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-23-04-23-weekly-meeting-release-communication-strategy-iga-program-and-netskope-integration.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.288Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-23-04-23-meeting-it-committee-presentation-strategy-content-refinement.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.290Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-23-04-23-weekly-meeting-national-project-alignment-delays-and-stakeholder-governance.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.291Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-23-04-23-weekly-meeting-hr-security-and-data-strategy-review.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.293Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-23-04-23-meeting-fortinet-enterprise-agreement-vs-co-term-renewals-pricing-mai-and-payment-options.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.294Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-23-04-23-manager-subordinate-one-on-one-operational-review-team-dynamics-and-personal-coaching.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.296Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-23-04-23-discussion-on-classic-cars-and-managed-it-program-strategy.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.297Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-23-04-23-analysis-of-employee-offboarding-process-improvement-strategy.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.299Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-22-04-22-weekly-meeting-new-office-it-project-phasing-and-deployment.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.300Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-22-04-22-reasserting-change-control-and-standardizing-offboarding-and-network-visibility-governance.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.302Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-22-04-22-meeting-shelby-web-ownership-rdp-security-prompts-and-modernization-plan.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.304Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-22-04-22-meeting-service-desk-triage-access-governance-meraki-outage-and-time-clock-transition.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.305Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-22-04-22-meeting-meraki-ownership-managed-services-onboarding-and-firewall-strategy-for-youth-shelters.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.307Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-21-04-21-weekly-meeting-time-clock-support-transition-staffing.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.308Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-21-04-21-weekly-meeting-netskope-project-management-and-execution.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.310Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-21-04-21-team-meeting-windows-11-rdp-prompt-certificate-fqdn-alignment-licensing-e3-teams-premium-chargebacks-and-ad-backup-alerts.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.311Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-21-04-21-project-meeting-time-clock-support-transition-sops-servicenow-workflows-and-role-changes.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.313Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-21-04-21-meeting-fy27-fy29-enterprise-applications-strategy-ai-governance-kpis-and-capacity-planning.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.315Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-21-04-21-interview-carmelita-r-cyril-carm.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.316Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-21-04-21-damage-control-for-communication-failure-regarding-pensioner-system-change.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.318Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-21-04-21-consultation-chris-the-salvation-army-it-priorities.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.319Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-20-04-20-weekly-meeting-shared-mailboxes-merit-statements-it-reboot-2026.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.321Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-20-04-20-weekly-meeting-cybersecurity-strategy-threat-response-and-hardening.md": {
+      "signature": "{\"tags\":[\"8\",\"F9EDD4\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.323Z",
+      "tags": [
+        "8",
+        "F9EDD4"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-20-04-20-proposal-to-transition-it-services-and-discussion-of-contingencies.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.324Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-20-04-20-weekly-meeting-cybersecurity-roles-dr-plans-and-application-risks.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.326Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-20-04-20-weekly-meeting-cybersecurity-project-status-and-staffing.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.327Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-20-04-20-meeting-baseline-savings-managed-services-recovery-and-fy28-fy29-consolidation-rfp-roadmap.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.329Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-17-04-17-weekly-meeting-microsoft-defender-vulnerability-and-communication-strategy.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.330Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-17-04-17-frustration-with-leadership-undermining-and-team-incompetence.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.332Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-14-04-14-weekly-meeting-technical-deployment-integration-and-license-renewals.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.333Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-14-04-14-meeting-agc-access-governance-iga-servicenow-integration-and-platform-scope.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.335Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-14-04-14-lecture-modern-it-organizational-design-platforms-enterprise-applications-delivery-teams-ea-coes-federated-global-model-gartner.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.337Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-13-04-13-weekly-meeting-merit-process-recruiting-updates-and-it-reboot-2026.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.338Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-13-04-13-weekly-meeting-itsd-year-end-review-and-time-clock-support-transition.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.340Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-10-04-10-weekly-meeting-vhl-it-migration-planning.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.342Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-10-04-10-weekly-meeting-time-clock-support-misalignment-and-process-clarification.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.343Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-10-04-10-weekly-meeting-team-restructuring-and-process-improvement.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.345Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-10-04-10-meeting-email-distribution-list-governance-naming-standards-and-cleanup-plan.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.347Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-09-04-09-it-leadership-session-operational-controls-legal-framework-for-contractors-recruiting-realignment-and-team-logistics.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.348Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-02-04-02-weekly-meeting-new-it-policies-application-proliferation-and-release-management.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.350Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-02-04-02-weekly-meeting-mfa-implementation-for-shelby-and-business-world-on-rds.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.351Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-02-04-02-weekly-meeting-it-training-m365-release-management-and-ai-strategy.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.353Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-02-04-02-meeting-change-request-iam-program-closure-budget.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.355Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-02-04-02-microsoft-licensing-workstream-failure-blocks-sprint-5-iga-salesforce-releases-ownership-shift-to-michael-and-no-emergency-cab.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.356Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-02-04-02-meeting-project-status-license-migration-and-timeline-review.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.358Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-02-04-02-meeting-enterprise-release-management-alignment-it-policy-revisions-and-intake-process-updates.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.359Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-04-01-04-01-weekly-meeting-intake-governance-managed-services-rollouts-and-infrastructure-deployments.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.361Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-31-03-31-weekly-meeting-it-strategy-roadmap-and-three-year-plan.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.363Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-31-03-31-meeting-servicenow-cmdb-attestations-ownership-alignment-and-criticality-framework.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.364Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-31-03-31-meeting-invoice-approvals-mobility-procurement-transition-and-career-development-strategy.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.366Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-31-03-31-meeting-internal-hiring-protocols-team-stability-for-arisha-and-thl-procurement-fiber-jobs.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.368Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-31-03-31-1-1-jl-weekly-meeting-employee-incident-security-protocol-and-budget.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.369Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-30-03-30-meeting-90-day-plan-and-cross-team-collaboration.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.371Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-30-03-30-casual-conversation-digital-note-taking-devices-and-e-ink-tablets.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.372Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-30-03-30-analysis-of-procurement-failure-redundant-hp-microserver-purchase.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.374Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-27-03-27-meeting-netskope-kickoff-ownership-performance-feedback-and-governance-improvements.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.375Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-27-03-27-meeting-mmu-incident-severity-triage-service-provider-mindset-and-servicenow-automation.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.377Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-27-03-27-meeting-knowledge-management-after-hours-support-and-cross-team-alignment-strategy.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.378Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-27-03-27-meeting-budget-to-gl-reconciliation-and-rds-configuration-risk-management.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.380Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-27-03-27-denial-of-early-access-email-accounts-due-to-iam-system-constraints-and-security-policy.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.381Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-26-03-26-weekly-meeting-finance-evaluation-qe-tricentis-implementation-performance-reviews.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.383Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-26-03-26-town-hall-2025-kettle-campaign-results-salesforce-scaling-it-achievements-and-fy2026-2027-roadmap.md": {
+      "signature": "{\"tags\":[\"1\",\"2\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.385Z",
+      "tags": [
+        "1",
+        "2"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-26-03-26-team-meeting-opex-role-definition-hiring-timeline-vendor-contract-optimization-and-savings-tracking-telco-pillars.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.400Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-26-03-26-meeting-rds-hardening-netskope-governance-kickoff-and-vancouver-harbor-light-completion.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.402Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-23-03-23-weekly-meeting-staffing-performance-review-and-goal-setting.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.404Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-23-03-23-weekly-meeting-servicenow-cmdb-roles-team-performance-and-backlog-issues.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.405Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-23-03-23-operational-challenges-and-performance-review-discussion.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.407Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-23-03-23-meeting-rds-mfa-enablement-web-app-security-posture-and-rds-hardening-plans.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.409Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-20-03-20-strategic-discussion-on-organizational-inefficiencies-and-security-risks.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.410Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-20-03-20-rds-gateway-mfa-enablement-security-control-clarification-governance-alignment-and-april-may-cutover-plan.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.412Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-20-03-20-meeting-oms-access-outage-emergency-change-and-itsm-process-alignment.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.414Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-20-03-20-dysfunctional-infrastructure-group-paralyzed-by-flawed-planning-security-risks-and-administrative-chaos.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.415Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-19-03-19-team-meeting-microsoft-participants-role-mismatch-tenant-verification-and-billing-account-cleanup.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.417Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-19-03-19-meeting-rds-gateway-mfa-rollout-shelby-stability-governance-pods-and-town-hall-ai-plans.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.418Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-19-03-19-meeting-microsoft-ea-voucher-use-m365-e3-migration-qa-exchange-hybrid-decommission-and-intune-strategy.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.420Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-17-03-17-weekly-meeting-employee-performance-and-resource-allocation.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.422Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-17-03-17-team-meeting-connectivity-decision-in-cambridge-consolidated-billing-data-governance-and-cost-controls.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.423Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-17-03-17-performance-review-and-coaching-session-for-christopher.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.425Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-17-03-17-meeting-secure-setup-troubleshooting-and-participant-access.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.427Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-17-03-17-meeting-merit-planning-workday-workflow-and-calibration-alignment.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.428Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-17-03-17-meeting-defining-quality-engineering-and-unifying-qa-practices-at-salvation-army.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.430Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-17-03-17-manager-s-unauthorized-employee-reassignment-challenges-authority-and-protocol.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.431Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-12-03-12-weekly-meeting-gartner-licensing-erp-hcm-programs-performance-reviews-and-m365-transition.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.433Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-12-03-12-town-hall-prep-meeting-it-metrics-managed-services-transition-and-outcome-focused-messaging.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.435Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-12-03-12-technical-troubleshooting-and-policy-clarification-session.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.436Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-12-03-12-strategic-alignment-on-data-integration-and-efficiency.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.438Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-12-03-12-meeting-pmo-communication-strategic-leadership-reviews-and-it-project-governance.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.440Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-11-03-11-meeting-outage-process-review-communication-gaps-roles-and-after-hours-coverage.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.442Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-11-03-11-meeting-litigation-hold-vendor-authority-and-data-preservation-strategy.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.443Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-11-03-11-meeting-frontline-engagement-ba-bsa-role-model-and-multi-speed-it-operating-model.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.445Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-10-03-10-meeting-workday-release-management-standardization-and-2026-r1-readiness.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.446Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-10-03-10-meeting-delinea-pam-enforcement-session-governance-service-account-rotation-and-api-key-management.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.448Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-10-03-10-meeting-form-platform-governance-risk-management-financial-operations-and-three-year-it-strategy-alignment.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.450Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-10-03-10-employee-moonlighting-incident-and-immediate-resignation.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.452Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-06-03-06-strategic-review-of-client-engagement-and-value-reporting.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.453Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-06-03-06-reasserting-itsm-ownership-of-enterprise-release-management-and-aligning-committee-narrative.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.455Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-06-03-06-meeting-project-code-reconciliation-1059-1061-1056-and-budget-adjustments.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.456Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-05-03-05-meeting-unapproved-it-solutions-kettle-campaign-and-salesforce-response.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.458Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-05-03-05-meeting-savings-reconciliation-mobility-unit-cost-reduction-hardware-pricing-strategy-and-landline-optimization.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.460Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-04-03-04-weekly-meeting-microsoft-licensing-nutanix-project-and-staffing-updates.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.461Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-04-03-04-weekly-meeting-hardware-price-increases-and-enterprise-agreement.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.463Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-04-03-04-team-meeting-oms-authentication-vendor-cover-email-and-litigation-hold-requirements.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.465Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-04-03-04-security-governance-meeting-soc-ticket-non-response-leadership-reporting-and-enforcement-limits-at-unmanaged-mus.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.466Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-04-03-04-meeting-it-scope-vendor-selection-and-winnipeg-camera-consolidation.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.468Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-04-03-04-meeting-iam-sustainment-offboarding-hiring-and-platform-strategy.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.469Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-04-03-04-meeting-ai-travel-and-finance-preliminaries.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.471Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-04-03-04-consultation-chrisa-s-it-operating-model-managed-services-scale-up-vendor-consolidation-and-license-prioritization.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.472Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-03-03-03-weekly-meeting-support-models-itsm-processes-and-team-alignment.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.474Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-03-03-03-weekly-meeting-servicenow-workday-salesforce-releases.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.476Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-03-03-03-weekly-meeting-misuse-of-admin-privileges-hr-breach-and-employee-performance.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.478Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-03-03-03-weekly-meeting-data-reporting-it-systems-feedback-and-new-software-requests.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.479Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-03-03-03-meeting-time-clock-support-transition-service-desk-triage-vendor-escalation-ownership.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.481Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-03-03-03-meeting-portfolio-roadmap-form-tools-governance-and-on-call-budget-strategy.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.482Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-03-03-03-meeting-access-provisioning-automation-jira-sam-cmdb-integration-salesforce-access-requests-tdw-release-6-lifegroup-ministry-websites-launch.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.484Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-03-03-03-kl-hr-incident-personnel-issues-project-challenges-and-performance-review.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.486Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-03-03-03-inefficiency-in-microsoft-teams-log-collection-process-for-troubleshooting.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.487Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-03-03-03-breach-of-trust-and-privileged-access-misuse-incident.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.489Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-02-03-02-team-meeting-year-end-performance-calibration-merit-planning-incident-protocols-and-event-logistics.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.490Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-02-03-02-meeting-identity-governance-strategy-rbac-for-nro-roles-erp-dependency-and-budget-constraints.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.492Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-02-03-02-meeting-e3-to-e1-licensing-transition-t4-ivr-updates-mobility-policy-and-team-planning.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.494Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-03-02-03-02-breakdown-in-certified-pre-owned-cpo-iphone-support-process-leads-to-high-visibility-incident.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.495Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-27-02-27-weekly-meeting-it-service-management-automation-and-cmdb-accuracy.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.497Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-27-02-27-weekly-meeting-data-analysis-challenges-and-process-improvement.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.498Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-27-02-27-team-blocked-on-microsoft-enterprise-agreement-due-to-incompatible-signing-process.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.500Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-27-02-27-meeting-nro-offsite-preparation-it-roadmap-ai-mdm-telecom-continuity-managed-services-shopify.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.501Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-27-02-27-meeting-docusign-sequencing-rec-corrections-microsoft-contract-pricing-change-management.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.503Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-27-02-27-governance-first-ai-intake-establishing-pmo-anchored-data-attestations-before-pilots.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.504Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-27-02-27-coordination-meeting-docusign-approval-security-policy-compliance-and-license-transition.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.506Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-27-02-27-catch-up-meeting-retirement-timeline-number-porting-device-laptop-support-audits-and-it-town-halls.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.508Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-26-02-26-weekly-meeting-salesforce-enabled-kettle-campaigns-rif-coordination-kt-adoption-security-add-on-and-ai-data-strategy.md": {
+      "signature": "{\"tags\":[\"F9EDD4\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.510Z",
+      "tags": [
+        "F9EDD4"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-26-02-26-weekly-meeting-microsoft-ea-renewal-status-and-pricing.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.511Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-26-02-26-weekly-meeting-microsoft-agreement-review-and-signature-process.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.513Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-26-02-26-meeting-internal-costing-approach-labor-rates-margin-vs-contingency.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.514Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-26-02-26-meeting-hardware-approvals-network-scopes-pricing-strategy-and-var-consolidation.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.516Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-26-02-26-meeting-enterprise-network-re-ip-strategy-sse-sase-architecture-and-cost-governance-decisions.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.517Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-26-02-26-contract-review-microsoft-enterprise-agreement-next-steps.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.519Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-25-02-25-monthly-meeting-strategic-direction-scaling-operations-and-staffing.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.520Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-24-02-24-weekly-meeting-servicenow-capacity-risks-budget-repositioning-ux-integration-and-secure-forms-policy.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.522Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-24-02-24-weekly-meeting-printer-replacement-internet-migration-and-windows-11-upgrade.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.524Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-24-02-24-team-meeting-interim-leadership-windows-11-upgrades-via-sccm-and-intune-transition-planning.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.525Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-24-02-24-weekly-meeting-incident-management-business-continuity-and-support-planning.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.527Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-24-02-24-immediate-termination-decision-amid-operating-model-shift-and-budget-constraints-at-the-salvation-army-it.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.528Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-23-02-23-weekly-sync-on-operational-challenges-and-strategic-planning.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.530Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-23-02-23-weekly-meeting-infrastructure-projects-documentation-and-team-management.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.531Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-23-02-23-weekly-meeting-generator-winterization-dhl-network-deployment-soc-ediscovery-and-printer-rollout.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.533Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-23-02-23-weekly-meeting-catering-plan-invoice-re-coding-fy26-budget-prepayments-and-microsoft-licensing-strategy.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.535Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-23-02-23-meeting-project-approval-it-coordination-dxp-engagement-and-managed-services-opportunity.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.536Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-23-02-23-meeting-ottawa-booth-legal-digital-footprint-scope-server-backups-and-mobile-compliance-strategy.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.538Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-23-02-23-meeting-bhl-workstation-order-pricing-supplier-analysis.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.539Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-23-02-23-meeting-atera-agent-cloning-risks-and-external-email-approval-vulnerability.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.541Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-19-02-19-project-meeting-generator-failure-mitigation-tsa-it-lan-scope-telus-dependency-and-scheduling.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.543Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-23-02-23-client-consultation-the-salvation-army-support-model-evaluation-and-device-procurement-strategy.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.544Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-23-02-23-briefing-weston-family-corporate-structure-bakery-divestiture-to-fgf-and-wonder-brands-operations.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.546Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-20-02-20-meeting-workday-outage-response-without-cause-terminations-manish-steve-and-operational-follow-ups.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.548Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-20-02-20-team-meeting-role-clarity-domain-ownership-euc-expansion-and-onboarding-strategy.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.549Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-19-02-19-r-union-a25-hypercare-overrun-people-software-cost-variances-fy2026-fy2027-budget-and-performance-calibration.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.551Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-18-02-18-strategic-review-of-cmdb-integration-and-budgetary-alignment.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.552Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-18-02-18-project-meeting-vhl-phone-deployment-beanfield-billing-terms-workstation-procurement-and-onsite-staffing-plan.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.554Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-18-02-18-one-on-one-discussion-on-career-aspirations-and-future-it-operational-strategy.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.556Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-27-01-27-weekly-meeting-staffing-strategy-budget-review.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.557Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-18-02-18-microsoft-ea-naming-resolution-admin-contact-clarification-and-endpoint-management-strategy-alignment.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.559Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-18-02-18-meeting-dual-tenant-entra-id-strategy-cross-tenant-trust-intune-management-licensing-and-cloud-printing-poc.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.560Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-17-02-17-weekly-meeting-workday-outage-incident-management-and-budget-process.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.562Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-17-02-17-weekly-meeting-platform-strategy-workday-outage-and-my-data-project.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.563Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-17-02-17-weekly-meeting-service-desk-staffing-iga-transition-servicenow-workspace-rollout-and-equipment-returns-process.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.565Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-17-02-17-weekly-meeting-iga-platform-workday-sync-and-risk-management.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.567Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-17-02-17-meeting-workday-outage-emergency-change-and-identity-manager-rollout.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.568Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-17-02-17-meeting-budgeting-vancouver-project-and-cost-cutting.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.570Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-17-02-17-leadership-meeting-offboarding-team-transitions-incident-management-and-microsoft-ea-renewal.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.571Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-17-02-17-interview-panel-discussion-on-it-resilience-and-outage-management.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.573Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-17-02-17-budget-alignment-meeting-finance-fy27-forecast-a25-infrastructure-roll-up-and-pre-brief-process-before-jonathan-review.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.574Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-13-02-13-weekly-meeting-endpoint-patch-strategy-m365-governance-zero-day-response-and-staffing-changes.md": {
+      "signature": "{\"tags\":[\"JL\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.576Z",
+      "tags": [
+        "JL"
+      ],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-13-02-13-project-meeting-nutanix-g10-infrastructure-refresh-live-migration-strategy-timeline-and-governance.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.578Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-12-02-12-weekly-meeting-budget-reduction-reclassification-and-recognition-initiatives.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.580Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-12-02-12-meeting-iam-program-update-sustainment-plan.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.581Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-11-02-11-project-meeting-microsoft-service-instability-dl-governance-cleanup-and-bi-dashboard-access.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.583Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-11-02-11-meeting-netskope-solution-for-cloud-security.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.584Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-11-02-11-meeting-distribution-list-management-and-cleanup.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.586Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-11-02-11-interview-ali-senior-server-administrator-candidate-azure-intune-mission-driven-it-operations.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.587Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-11-02-11-meeting-a25-report-scope-and-it-initiatives.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.589Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-10-02-10-weekly-meeting-capital-budget-review-and-project-prioritization.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.590Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-10-02-10-project-meeting-salesforce-iga-integration-entitlements-timelines-and-budget.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.592Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-10-02-10-project-meeting-bhl-it-deployment-mou-revisions-fiber-permitting-and-wbs-schedule.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.593Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-10-02-10-meeting-transition-apex-communications-from-sales-rep-to-service-desk.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.595Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-10-02-10-meeting-slide-deck-review-kettle-campaign-and-it-project-budgeting.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.596Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-10-02-10-budget-review-cost-center-analysis-and-payroll-discrepancies.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.598Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-09-02-09-weekly-meeting-identity-governance-presentation.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.599Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-09-02-09-weekly-meeting-budget-deficit-netscope-deployment-and-team-structure.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.601Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-09-02-09-meeting-jacob-elgar-endpoint-intune-rollout-patch-strategy-entra-tenant-trust-and-euc-team-planning.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.603Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-06-02-06-weekly-meeting-iam-program-review-budget-and-presentation-prep.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.604Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-06-02-06-professional-catch-up-on-hr-system-challenges-and-ai-solutions.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.606Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-06-02-06-meeting-stock-migration-from-telus-to-arancia.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.607Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-06-02-06-meeting-release-access-issues-escalation-criteria-vendor-outage-templates-signal-four-evaluation-newsletter-coordination.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.609Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-06-02-06-meeting-iga-timeline-budget-framing-metrics-and-hr-ai-coordination.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.611Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-06-02-06-meeting-iam-program-update-slide-cleanup-timeline-deviations-budget-context-and-sustainment-pillars.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.613Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-06-02-06-meeting-iam-governance-update-budget-variances-and-rbac-priorities.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.614Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-05-02-05-weekly-meeting-presentation-deck-rbac-and-project-budget.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.616Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-05-02-05-weekly-meeting-it-capability-cabinet-erp-crm-roadmap-staffing-budget-and-governance.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.617Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-05-02-05-weekly-meeting-budget-errors-license-renewal-and-team-transitions.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.619Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-05-02-05-project-timeline-reconciliation-and-crisis-management-strategy.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.620Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-02-02-02-meeting-headcount-licensing-alignment-salesforce-workday-lms-integration-and-analytics-adoption-2022-2025.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.622Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-02-02-02-lecture-situational-appraisal-framework-intake-process-prioritization-meeting-themes-psychological-safety.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.623Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-02-02-02-lecture-donut-factory-problem-solving-simulation.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.625Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-02-02-02-hr-data-integrity-crisis-inflated-headcount-due-to-flawed-workday-migration.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.627Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-02-02-02-02-donut-defect-incident-causal-analysis-and-incident-management-teaching-framework.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.628Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-29-jl-mit-deck-01-29-meeting-budget-review-cost-reduction-and-headcount-management.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.630Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-30-01-30-manager-s-consultation-with-hr-on-employee-exits.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.631Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-29-01-29-weekly-meeting-policy-enforcement-gold-care-security-and-mobile-plans.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.633Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-29-01-29-weekly-meeting-infrastructure-and-cybersecurity-alignment.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.634Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-29-01-29-peer-discussion-on-ai-work-overload-and-team-challenges.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.636Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-29-01-29-budget-review-meeting-servicenow-funding-microsoft-ea-variance-hardware-governance-and-windows-11-rollout.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.638Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-28-01-28-urgent-it-directives-and-operational-updates.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.639Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-28-01-28-team-meeting-it-transparency-csc-audit-and-budget-planning.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.641Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-28-01-28-meeting-microsoft-ea-fy26-fy27-budget-copilot-licensing-compliance-and-staffing-actions.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.642Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-28-01-28-meeting-iam-iga-timeline-risk-acceptance-and-identity-provisioning-updates.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.644Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-28-01-28-leadership-meeting-icmp-wi-fi-data-retention-legal-communications-workday-transition-and-peel-it-stabilization.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.646Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-28-01-28-internal-project-management-and-legal-compliance-review.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.647Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-27-01-27-weekly-meeting-technical-issues-business-growth-and-staffing-model.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.649Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-27-01-27-weekly-meeting-microsoft-licensing-renewal-strategy.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.650Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-27-01-27-weekly-meeting-it-governance-mu-engagement-and-project-updates.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.652Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-27-01-27-weekly-meeting-change-management-production-incidents-and-deployments.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.654Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-27-01-27-team-sync-on-operational-issues-strategic-planning-and-financial-projections.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.655Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-27-01-27-personal-and-professional-catch-up-amidst-crises.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.657Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-27-01-27-operations-meeting-scim-iga-read-failures-p3-classification-and-thursday-launch-go-no-go.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.658Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-27-01-27-meeting-role-harmonization-project.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.660Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-27-01-27-meeting-pc-procurement-euc-restructuring-and-security-stack-consolidation.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.661Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-27-01-27-meeting-erp-rfp-kickoff-vendor-down-selection-timeline-and-evaluator-governance.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.663Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-26-2026-01-26-15-31-41-duane-prawl-merged.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.665Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-26-01-26-weekly-meeting-performance-review-issues-shopify-invoice-and-org-changes.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.666Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-26-01-26-weekly-meeting-itsm-report-review-cmdb-integration-and-communication-plan.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.668Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-26-01-26-weekly-meeting-crowdstrike-policy-intern-hiring-succession-planning-and-team-management.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.669Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-26-01-26-meeting-performance-review-calibration-and-training-logistics.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.671Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-26-01-26-team-meeting-network-onboarding-and-process-standardization.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.672Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-26-01-26-strategic-realignment-of-microsoft-365-management-barry-hart.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.674Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-26-01-26-meeting-release-management-ba-roles-and-platform-monitoring.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.675Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-26-01-26-project-and-operational-review-calibrations-budget-and-vendor-management.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.677Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-26-01-26-professional-crisis-and-internal-role-exploration.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.679Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-26-01-26-meeting-identity-program-deck-simplification-and-sustainment-plan.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.680Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-26-01-26-interview-manuel-pmo-rebuild-telecom-consolidation-and-construction-it-integration.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.682Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-26-01-26-casual-conversation-broken-snowblower-costco-issues-duane-prawl.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.683Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-23-01-23-weekly-meeting-platform-outage-communication-incident-management.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.685Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-23-01-23-weekly-meeting-incident-management-team-performance-and-hiring.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.686Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-23-01-23-strategic-realignment-for-ministry-unit-onboarding.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.688Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-23-01-23-meeting-incident-response-employee-moonlighting-and-supplier-management.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.689Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-23-01-23-meeting-distribution-list-analysis-and-cleanup-strategy.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.691Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-23-01-23-meeting-canadian-coverage-strategy-and-microsoft-licensing-options-for-salvation-army.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.693Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-23-01-23-interview-jerome-help-desk-manager.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.694Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-23-01-23-analysis-and-strategy-for-handling-workday-related-escalations.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.696Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-23-01-23-advocacy-and-resolution-for-systemic-failures-jessica-radon.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.697Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-21-01-21-meeting-budget-review-cost-analysis-and-staffing.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.699Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-20-01-20-weekly-meeting-nutanix-hardware-microsoft-ea-and-talent-management.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.701Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-20-01-20-weekly-meeting-it-portfolio-roadmap-ministry-billing-solution-goldcare-security-intake-process-erp-rfp-and-budget-optimization.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.702Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-20-01-20-meeting-thl-operational-review-budget-alignment-and-camera-vendor-decision.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.704Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-20-01-20-meeting-technical-stability-budget-alignment-and-environment-strategy-shopify-infor-microsoft-ea-servicenow.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.706Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-20-01-20-meeting-sql-server-operations-iam-database-support-and-automation-plan.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.707Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-20-01-20-meeting-itsm-milestones-cmdb-roadmap-and-role-measurement-framework.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.709Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-20-01-20-meeting-contract-management-website-migration-and-change-requests.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.710Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-20-01-20-meeting-career-development-fy27-forecast-and-rogers-consolidation.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.712Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-20-01-20-meeting-budget-finalization-and-vendor-evaluation.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.714Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-20-01-20-meeting-archibus-server-incident-and-unauthorized-change.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.715Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-20-01-20-career-development-and-operational-alignment-discussion.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.717Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-19-01-19-work-session-calendar-coordination-and-birthday-gift-planning.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.718Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-19-01-19-weekly-meeting-voh-servicenow-zurich-upgrade-itsm-initiatives.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.720Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-19-01-19-weekly-meeting-staffing-budget-and-project-delivery-issues.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.721Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-19-01-19-weekly-meeting-microsoft-ea-nutanix-purchase-and-performance-calibration.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.723Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-19-01-19-weekly-meeting-managed-services-enablement-budget-actions-contract-controls-and-stakeholder-engagement.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.724Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-19-01-19-weekly-meeting-fy26-peek-forms-hardware-orders-and-managed-services-transition.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.726Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-19-01-19-meeting-team-lead-candidates-jerome-vs-derek.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.727Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-19-01-19-meeting-servicenow-upgrade-release-management-and-itsm-newsletter.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.729Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-19-01-19-meeting-iam-integration-budget-tracking-license-optimization-and-staffing-decisions.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.731Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-19-01-19-meeting-iam-budget-forecast-and-change-request-reconciliation.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.732Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-19-01-19-meeting-contractor-training-policy-managed-it-support-and-scheduling-decisions.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.734Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-16-01-16-working-session-iam-sustainment-slas-and-tableau-integration-by-march-31.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.735Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-16-01-16-weekly-meeting-feedback-invoice-consolidation-and-procurement-system.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.737Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-16-01-16-meeting-samus-downtime-communication-service-desk-readiness-and-leadership-calibration.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.739Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-16-01-16-meeting-vendor-management-budget-constraints-and-nutanix-purchase.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.740Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-16-01-16-meeting-technical-leadership-project-staffing-and-budget-management.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.742Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-16-01-16-meeting-driver-tablets-and-cost-management.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.743Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-16-01-16-leadership-sync-ai-guardrails-social-mission-stabilization-and-operational-bottlenecks.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.745Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-15-01-15-weekly-meeting-role-harmonization-calibration-and-meeting-time-management.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.747Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-15-01-15-weekly-meeting-invoice-processing-budgeting-and-staffing.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.748Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-15-01-15-weekly-meeting-fy27-budget-hiring-and-contractor-review.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.750Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-15-01-15-weekly-meeting-active-directory-offboarding-and-security-risks.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.751Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-15-01-15-operations-review-meeting-budget-integrity-microsoft-ea-negotiations-and-pmo-recruitment.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.753Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-15-01-15-meeting-laptop-procurement-vendor-negotiation-and-budget-savings.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.754Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-15-01-15-meeting-m365-copilot-readiness-security-guardrails-and-governance-plan.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.756Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-15-01-15-meeting-gartner-licensing-strategy-and-salvation-army-it-support-plan.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.758Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-14-01-14-weekly-meeting-itsm-governance-and-servicenow-process-improvement.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.759Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-14-01-14-performance-review-pascal-s-contributions-and-objectives.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.761Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-14-01-14-meeting-vendor-scorecard-colnet-quote-hold-and-security-camera-network-segregation.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.762Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-14-01-14-meeting-performance-calibration-distribution-lists-governance-and-intake-prioritization.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.764Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-14-01-14-meeting-itsm-staffing-compensation-benchmarking-and-budget-alignment.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.766Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-14-01-14-meeting-itsm-staffing-budget-stability-and-operational-transformation.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.767Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-14-01-14-meeting-identity-governance-strategy-role-persona-separation-and-erp-rfp-integration.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.769Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-14-01-14-meeting-fy26-it-budget-microsoft-ea-licensing-and-nutanix-pricing-risk.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.771Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-13-01-13-weekly-meeting-it-committee-iga-project-and-change-approvals.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.772Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-13-01-13-weekly-meeting-fy26-fy27-budget-planning-microsoft-costs-and-software-subscriptions.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.775Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-13-01-13-project-meeting-iga-mvp-integration-with-salesforce-tableau-rbac-constraints-and-march-deliverables.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.776Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-13-01-13-meeting-performance-rating-and-force-ranking.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.778Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/2026-01-13-01-13-meeting-microsoft-licensing-storage-costs-and-identity-management.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.780Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "98.Knowledge/Reference/Minutes/07-08_Meeting_IT_Budget_Reconciliation_and_Cost_Center_Allocation_Review-Summary.md": {
+      "signature": "{\"tags\":[\"1061\",\"Budget\",\"BusinessWorld\",\"Capex\",\"Chargebacks\",\"ConstructionProject\",\"Gartner\",\"Headcount\",\"ITTeam\",\"Infrastructure\",\"InfrastructureServices\",\"ManagedServices\",\"Microsoft\",\"MicrosoftUnifiedSupport\",\"Nazia\",\"OPEX\",\"OtherCosts\",\"PL\",\"Performance\",\"Reboot\",\"Tridel\",\"Underburn\",\"Workday\",\"costcenters\",\"headcount\",\"headcounts\",\"underburn\",\"workday\"],\"people\":[\"98.Knowledge/People/Adewale.md\",\"98.Knowledge/People/Aiden Tan.md\",\"98.Knowledge/People/Nazia.md\",\"98.Knowledge/People/Romel Ugoji.md\"],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.781Z",
+      "tags": [
+        "1061",
+        "Budget",
+        "BusinessWorld",
+        "Capex",
+        "Chargebacks",
+        "ConstructionProject",
+        "Gartner",
+        "Headcount",
+        "ITTeam",
+        "Infrastructure",
+        "InfrastructureServices",
+        "ManagedServices",
+        "Microsoft",
+        "MicrosoftUnifiedSupport",
+        "Nazia",
+        "OPEX",
+        "OtherCosts",
+        "PL",
+        "Performance",
+        "Reboot",
+        "Tridel",
+        "Underburn",
+        "Workday",
+        "costcenters",
+        "headcount",
+        "headcounts",
+        "underburn",
+        "workday"
+      ],
+      "people": [
+        "98.Knowledge/People/Adewale.md",
+        "98.Knowledge/People/Aiden Tan.md",
+        "98.Knowledge/People/Nazia.md",
+        "98.Knowledge/People/Romel Ugoji.md"
+      ],
+      "records": []
+    },
+    "10.Meetings/2026/07-17-26 Friday.md": {
+      "signature": "{\"tags\":[\"1061c\",\"FinancialReports\",\"PL\",\"ReleaseManagement\"],\"people\":[\"98.Knowledge/People/Adewale.md\",\"98.Knowledge/People/Barry Hart.md\",\"98.Knowledge/People/Jonathan Landon.md\",\"98.Knowledge/People/Jose Herrera.md\",\"98.Knowledge/People/Romel Ugoji.md\"],\"records\":[{\"id\":\"akos-1fc403a\",\"type\":\"d\",\"text\":\"[[Romel Ugoji|Romel]] [[Adewale|Ade]] transition to #PL format for #FinancialReports #1061c\",\"people\":[\"98.Knowledge/People/Romel Ugoji.md\",\"98.Knowledge/People/Adewale.md\"],\"unresolved\":[]},{\"id\":\"akos-inj7cj\",\"type\":\"r\",\"text\":\"#FinancialReports for #1061c aren't accurately showing state [[Romel Ugoji|Romel]]\",\"people\":[\"98.Knowledge/People/Romel Ugoji.md\"],\"unresolved\":[]},{\"id\":\"akos-1uzbw9h\",\"type\":\"e\",\"text\":\"discuss #FinancialReports w/ [[Jonathan Landon|JL]]\",\"people\":[\"98.Knowledge/People/Jonathan Landon.md\"],\"unresolved\":[]},{\"id\":\"akos-x6mff2\",\"type\":\"d\",\"text\":\"[[Jose Herrera|Jose]] begin work with [[Barry Hart|Barry]] re #ReleaseManagement\",\"people\":[\"98.Knowledge/People/Jose Herrera.md\",\"98.Knowledge/People/Barry Hart.md\"],\"unresolved\":[]}]}",
+      "syncedAt": "2026-07-18T22:18:50.348Z",
+      "tags": [
+        "1061c",
+        "FinancialReports",
+        "PL",
+        "ReleaseManagement"
+      ],
+      "people": [
+        "98.Knowledge/People/Adewale.md",
+        "98.Knowledge/People/Barry Hart.md",
+        "98.Knowledge/People/Jonathan Landon.md",
+        "98.Knowledge/People/Jose Herrera.md",
+        "98.Knowledge/People/Romel Ugoji.md"
+      ],
+      "records": [
+        {
+          "id": "akos-1fc403a",
+          "type": "d",
+          "text": "[[Romel Ugoji|Romel]] [[Adewale|Ade]] transition to #PL format for #FinancialReports #1061c",
+          "displayText": "Romel Ade transition to PL format for FinancialReports 1061c",
+          "people": [
+            "98.Knowledge/People/Romel Ugoji.md",
+            "98.Knowledge/People/Adewale.md"
+          ]
+        },
+        {
+          "id": "akos-inj7cj",
+          "type": "r",
+          "text": "#FinancialReports for #1061c aren't accurately showing state [[Romel Ugoji|Romel]]",
+          "displayText": "FinancialReports for 1061c aren't accurately showing state Romel",
+          "people": [
+            "98.Knowledge/People/Romel Ugoji.md"
+          ]
+        },
+        {
+          "id": "akos-1uzbw9h",
+          "type": "e",
+          "text": "discuss #FinancialReports w/ [[Jonathan Landon|JL]]",
+          "displayText": "discuss FinancialReports w/ JL",
+          "people": [
+            "98.Knowledge/People/Jonathan Landon.md"
+          ]
+        },
+        {
+          "id": "akos-x6mff2",
+          "type": "d",
+          "text": "[[Jose Herrera|Jose]] begin work with [[Barry Hart|Barry]] re #ReleaseManagement",
+          "displayText": "Jose begin work with Barry re ReleaseManagement",
+          "people": [
+            "98.Knowledge/People/Jose Herrera.md",
+            "98.Knowledge/People/Barry Hart.md"
+          ]
+        }
+      ]
+    },
+    "10.Meetings/2026/07-14-26 Tuesday.md": {
+      "signature": "{\"tags\":[\"synch\"],\"people\":[\"98.Knowledge/People/Alice Johansson.md\",\"98.Knowledge/People/Frank Adili.md\",\"98.Knowledge/People/Kajun.md\"],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.798Z",
+      "tags": [
+        "synch"
+      ],
+      "people": [
+        "98.Knowledge/People/Alice Johansson.md",
+        "98.Knowledge/People/Frank Adili.md",
+        "98.Knowledge/People/Kajun.md"
+      ],
+      "records": []
+    },
+    "10.Meetings/2026/07-09-26 Thursday.md": {
+      "signature": "{\"tags\":[\"Reboot\",\"telus\"],\"people\":[\"98.Knowledge/People/Frank Adili.md\",\"98.Knowledge/People/Jason Blais.md\"],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.801Z",
+      "tags": [
+        "Reboot",
+        "telus"
+      ],
+      "people": [
+        "98.Knowledge/People/Frank Adili.md",
+        "98.Knowledge/People/Jason Blais.md"
+      ],
+      "records": []
+    },
+    "10.Meetings/2026/07-13-26 Monday.md": {
+      "signature": "{\"tags\":[\"governance\",\"risk\"],\"people\":[\"98.Knowledge/People/Marianne Hicks.md\",\"98.Knowledge/People/Max Yang.md\",\"98.Knowledge/People/Meenu Heer.md\",\"98.Knowledge/People/Theresa John.md\"],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.803Z",
+      "tags": [
+        "governance",
+        "risk"
+      ],
+      "people": [
+        "98.Knowledge/People/Marianne Hicks.md",
+        "98.Knowledge/People/Max Yang.md",
+        "98.Knowledge/People/Meenu Heer.md",
+        "98.Knowledge/People/Theresa John.md"
+      ],
+      "records": []
+    },
+    "10.Meetings/2026/07-08-26 Wednesday.md": {
+      "signature": "{\"tags\":[\"ServiceNow\",\"contractmanagement\"],\"people\":[\"98.Knowledge/People/Jenny Deslauries.md\",\"98.Knowledge/People/Leena Alexander.md\",\"98.Knowledge/People/Yasir Ayub.md\"],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.804Z",
+      "tags": [
+        "ServiceNow",
+        "contractmanagement"
+      ],
+      "people": [
+        "98.Knowledge/People/Jenny Deslauries.md",
+        "98.Knowledge/People/Leena Alexander.md",
+        "98.Knowledge/People/Yasir Ayub.md"
+      ],
+      "records": []
+    },
+    "10.Meetings/2026/07-02-26 Thursday.md": {
+      "signature": "{\"tags\":[\"ICT\",\"ITF\",\"XPRI\",\"granite\",\"pots\",\"rogers\",\"sf\"],\"people\":[\"98.Knowledge/People/Alice Johansson.md\",\"98.Knowledge/People/Frank Adili.md\",\"98.Knowledge/People/James Bowes.md\",\"98.Knowledge/People/Jenny Diplock.md\",\"98.Knowledge/People/Romel Ugoji.md\",\"98.Knowledge/People/Sal Battaglia.md\",\"98.Knowledge/People/Telmuun Johnstone.md\"],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.806Z",
+      "tags": [
+        "ICT",
+        "ITF",
+        "XPRI",
+        "granite",
+        "pots",
+        "rogers",
+        "sf"
+      ],
+      "people": [
+        "98.Knowledge/People/Alice Johansson.md",
+        "98.Knowledge/People/Frank Adili.md",
+        "98.Knowledge/People/James Bowes.md",
+        "98.Knowledge/People/Jenny Diplock.md",
+        "98.Knowledge/People/Romel Ugoji.md",
+        "98.Knowledge/People/Sal Battaglia.md",
+        "98.Knowledge/People/Telmuun Johnstone.md"
+      ],
+      "records": []
+    },
+    "10.Meetings/2026/07-07-26 Tuesday.md": {
+      "signature": "{\"tags\":[\"COI\",\"KT\",\"VHL\",\"coaching\",\"confirmationbias\",\"infra\",\"invoicing\",\"quote\",\"snow_enhancement\",\"technicalservices\",\"travel\"],\"people\":[\"98.Knowledge/People/Frank Adili.md\",\"98.Knowledge/People/Leena Alexander.md\",\"98.Knowledge/People/Phillip Thompson.md\",\"98.Knowledge/People/Rob Pincente.md\",\"98.Knowledge/People/Sal Battaglia.md\",\"98.Knowledge/People/Steve Schutz.md\"],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.808Z",
+      "tags": [
+        "COI",
+        "KT",
+        "VHL",
+        "coaching",
+        "confirmationbias",
+        "infra",
+        "invoicing",
+        "quote",
+        "snow_enhancement",
+        "technicalservices",
+        "travel"
+      ],
+      "people": [
+        "98.Knowledge/People/Frank Adili.md",
+        "98.Knowledge/People/Leena Alexander.md",
+        "98.Knowledge/People/Phillip Thompson.md",
+        "98.Knowledge/People/Rob Pincente.md",
+        "98.Knowledge/People/Sal Battaglia.md",
+        "98.Knowledge/People/Steve Schutz.md"
+      ],
+      "records": []
+    },
+    "10.Meetings/2026/07-06-26 Monday.md": {
+      "signature": "{\"tags\":[\"DomainStrategy\",\"M06\",\"Netskope\",\"dl\",\"erp\",\"lotusnotes\",\"workday_roadmap\"],\"people\":[\"98.Knowledge/People/Brian Hoa.md\",\"98.Knowledge/People/Duane Prawl.md\",\"98.Knowledge/People/Elliott Perrin.md\",\"98.Knowledge/People/Frank Adili.md\",\"98.Knowledge/People/Geoff Moulton.md\",\"98.Knowledge/People/Jenny Diplock.md\",\"98.Knowledge/People/Jonathan Landon.md\",\"98.Knowledge/People/Jose Herrera.md\",\"98.Knowledge/People/Mark Howden.md\",\"98.Knowledge/People/Mark Stanley.md\",\"98.Knowledge/People/Michelle Forester.md\",\"98.Knowledge/People/Mitra M.md\",\"98.Knowledge/People/Priya Mouli.md\",\"98.Knowledge/People/Rob Pincente.md\",\"98.Knowledge/People/Rodney Hiscock.md\",\"98.Knowledge/People/Roxanne Jennings.md\",\"98.Knowledge/People/Sanjay Pattni.md\",\"98.Knowledge/People/Steve Schutz.md\"],\"records\":[{\"id\":\"akos-mhyegw\",\"type\":\"r\",\"text\":\"PAM - not all passwords are rotated? [[Mitra M]]\",\"people\":[\"98.Knowledge/People/Mitra M.md\"],\"unresolved\":[]},{\"id\":\"akos-1ogp9v7\",\"type\":\"d\",\"text\":\"[[Elliott Perrin|Elliott]] says we can't enable MFA/VPN for users unless we re-ip each location #DomainStrategy #Netskope\",\"people\":[\"98.Knowledge/People/Elliott Perrin.md\"],\"unresolved\":[]}]}",
+      "syncedAt": "2026-07-18T22:05:53.375Z",
+      "tags": [
+        "DomainStrategy",
+        "M06",
+        "Netskope",
+        "dl",
+        "erp",
+        "lotusnotes",
+        "workday_roadmap"
+      ],
+      "people": [
+        "98.Knowledge/People/Brian Hoa.md",
+        "98.Knowledge/People/Duane Prawl.md",
+        "98.Knowledge/People/Elliott Perrin.md",
+        "98.Knowledge/People/Frank Adili.md",
+        "98.Knowledge/People/Geoff Moulton.md",
+        "98.Knowledge/People/Jenny Diplock.md",
+        "98.Knowledge/People/Jonathan Landon.md",
+        "98.Knowledge/People/Jose Herrera.md",
+        "98.Knowledge/People/Mark Howden.md",
+        "98.Knowledge/People/Mark Stanley.md",
+        "98.Knowledge/People/Michelle Forester.md",
+        "98.Knowledge/People/Mitra M.md",
+        "98.Knowledge/People/Priya Mouli.md",
+        "98.Knowledge/People/Rob Pincente.md",
+        "98.Knowledge/People/Rodney Hiscock.md",
+        "98.Knowledge/People/Roxanne Jennings.md",
+        "98.Knowledge/People/Sanjay Pattni.md",
+        "98.Knowledge/People/Steve Schutz.md"
+      ],
+      "records": [
+        {
+          "id": "akos-mhyegw",
+          "type": "r",
+          "text": "PAM - not all passwords are rotated? [[Mitra M]]",
+          "displayText": "PAM - not all passwords are rotated? Mitra M",
+          "people": [
+            "98.Knowledge/People/Mitra M.md"
+          ]
+        },
+        {
+          "id": "akos-1ogp9v7",
+          "type": "d",
+          "text": "[[Elliott Perrin|Elliott]] says we can't enable MFA/VPN for users unless we re-ip each location #DomainStrategy #Netskope",
+          "displayText": "Elliott says we can't enable MFA/VPN for users unless we re-ip each location DomainStrategy Netskope",
+          "people": [
+            "98.Knowledge/People/Elliott Perrin.md"
+          ]
+        }
+      ]
+    },
+    "00. 📥 To Process/West Travel.md": {
+      "signature": "{\"tags\":[\"0D2RM04EC9\",\"1497118490a\",\"4G6XAUZOTP\",\"630\",\"85614487a\",\"85614488a\",\"85692613a\",\"85692642a\"],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.812Z",
+      "tags": [
+        "0D2RM04EC9",
+        "1497118490a",
+        "4G6XAUZOTP",
+        "630",
+        "85614487a",
+        "85614488a",
+        "85692613a",
+        "85692642a"
+      ],
+      "people": [],
+      "records": []
+    },
+    "00. 📥 To Process/Portfolio_Reference_July17_2026.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.814Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "+ 🏠 Home/01.☑️ Tasks.md": {
+      "signature": "{\"tags\":[],\"people\":[],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.815Z",
+      "tags": [],
+      "people": [],
+      "records": []
+    },
+    "+ 🏠 Home/+DUMP.md": {
+      "signature": "{\"tags\":[\"XPRI\",\"atera\",\"strategy\"],\"people\":[\"98.Knowledge/People/Jose Herrera.md\",\"98.Knowledge/People/Rob Pincente.md\",\"98.Knowledge/People/Steve Schutz.md\"],\"records\":[]}",
+      "syncedAt": "2026-07-18T21:59:38.817Z",
+      "tags": [
+        "XPRI",
+        "atera",
+        "strategy"
+      ],
+      "people": [
+        "98.Knowledge/People/Jose Herrera.md",
+        "98.Knowledge/People/Rob Pincente.md",
+        "98.Knowledge/People/Steve Schutz.md"
+      ],
+      "records": []
+    }
+  }
+}
