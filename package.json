@@ -1,0 +1,7 @@
+{
+  "name": "ace2x-knowledge-os",
+  "version": "0.4.12",
+  "description": "ACE2X Knowledge OS for Obsidian",
+  "main": "main.js",
+  "license": "MIT"
+}
