@@ -85,19 +85,18 @@ ACE2X Knowledge OS is AI-provider agnostic. The included prompts and workflows c
 
 ### Environment Validation
 
-Beginning with **v0.5.0**, ACE2X will include an **Environment Validator** that verifies:
+Beginning with **v0.5.0**, ACE2X includes an **Environment Validator** that verifies:
 
 - Required plugins are installed and enabled.
 - Configured folders exist.
 - Plugin settings are complete.
 
 The validator does **not** require a specific folder structure. Users are free to organize their vault however they choose and simply map folders within the ACE2X settings.
-=======
 ACE2X Knowledge OS is an Obsidian plugin that synchronizes decisions, risks, issues, executive follow-ups, people references, inline statuses, and a native Obsidian Bases dashboard.
 
 ## Current release
 
-**0.4.12**
+**0.5.0**
 
 ## Development
 
