@@ -5,9 +5,11 @@
   "main": "main.js",
   "scripts": {
     "dev": "node esbuild.config.mjs",
-    "build": "tsc --noEmit --skipLibCheck && node esbuild.config.mjs production",
+    "compile": "tsc --noEmit --skipLibCheck && node esbuild.config.mjs production",
+    "package": "node package-plugin.mjs",
+    "build": "npm run compile && npm run package",
     "version": "node version-bump.mjs && git add manifest.json versions.json"
-  },
+},
   "keywords": ["obsidian", "knowledge-management", "decisions", "risks", "metadata"],
   "author": "Christopher Aceto",
   "license": "MIT",
